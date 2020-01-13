@@ -1,0 +1,1018 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{26AA4A1D-4960-4CAA-B20F-D707D4DB1330}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>ACT_FINANCE</RootNamespace>
+    <AssemblyName>ACT_FINANCE</AssemblyName>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ACT_FINANCE.xml</DocumentationFile>
+    <DefineConstants>_MYFORMS=True</DefineConstants>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ACT_FINANCE.xml</DocumentationFile>
+    <DefineConstants>_MYFORMS=True</DefineConstants>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v12.1, Version=12.1.6.0, Culture=neutral, PublicKeyToken=95fc6c5621878f0a" />
+    <Reference Include="DevExpress.Data.v12.1, Version=12.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.ExpressApp.v12.1, Version=12.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.ExpressApp.Win.v12.1, Version=12.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v12.1.Core, Version=12.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v12.1, Version=12.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v12.1, Version=12.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v12.1, Version=12.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGrid.v12.1, Version=12.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v12.1, Version=12.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v12.1, Version=12.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v12.1.Core, Version=12.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraTreeList.v12.1, Version=12.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="FlatTabControl, Version=1.0.2469.22824, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\FlatTabControl.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.ADODB, Version=2.8.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Interop.Excel, Version=1.5.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\_Backup Coding Lama\TRACKING\TRACKING\dll export to excel\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System.Printing" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CLASS\clsApplicationRole.vb" />
+    <Compile Include="CLASS\clsCalender.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CLASS\clsCVSendEmail.vb" />
+    <Compile Include="CLASS\clsDotMat.vb" />
+    <Compile Include="CLASS\clsAddressConfig.vb" />
+    <Compile Include="CLASS\clsDatabaseConfig.vb" />
+    <Compile Include="CLASS\clsDataFiller.vb" />
+    <Compile Include="CLASS\clsDataset.vb" />
+    <Compile Include="CLASS\clsExcel.vb" />
+    <Compile Include="CLASS\clsExcelFromDgv.vb" />
+    <Compile Include="CLASS\clsKirimEmail.vb" />
+    <Compile Include="CLASS\clsLockingTransaction.vb" />
+    <Compile Include="CLASS\clsPrintGiroAndCek.vb" />
+    <Compile Include="CLASS\clsQuickPrint.vb" />
+    <Compile Include="CLASS\clsSource.vb" />
+    <Compile Include="CLASS\clsSQLUDTableTypes.vb" />
+    <Compile Include="CLASS\clsUtil.vb" />
+    <Compile Include="CLASS\DatabaseUtils.vb" />
+    <Compile Include="CLASS\MyData.vb" />
+    <Compile Include="DataClassesFrm.designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClassesFrm.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="DataClassesFrm.vb">
+      <DependentUpon>DataClassesFrm.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="DATASOURCE\ClsRptAdvanceDetil.vb" />
+    <Compile Include="DATASOURCE\ClsRptAdvanceHeader.vb" />
+    <Compile Include="DATASOURCE\clsRptCirculationVoucher.vb" />
+    <Compile Include="DATASOURCE\clsRptCirculationVoucherDetil.vb" />
+    <Compile Include="DATASOURCE\clsRptJurnalPV_Cek.vb" />
+    <Compile Include="DATASOURCE\clsRptJurnalPV_Detil.vb" />
+    <Compile Include="DATASOURCE\clsRptJurnalPV_Header.vb" />
+    <Compile Include="DATASOURCE\clsRptJurnal_Detil.vb" />
+    <Compile Include="DATASOURCE\clsRptJurnal_Header.vb" />
+    <Compile Include="DATASOURCE\clsRptOutstandingOrder.vb" />
+    <Compile Include="DATASOURCE\clsrptvoid.vb" />
+    <Compile Include="DATASOURCE\clsRptJurnalST_Header.vb" />
+    <Compile Include="DATASOURCE\clsRptJurnalST_Detil.vb" />
+    <Compile Include="DIALOG\dlgRptJurnal_PV_ChoiceTravel.designer.vb">
+      <DependentUpon>dlgRptJurnal_PV_ChoiceTravel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgRptJurnal_PV_ChoiceTravel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgSelectBudgetDetil.designer.vb">
+      <DependentUpon>dlgSelectBudgetDetil.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgSelectBudgetDetil.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgSelectBudgetDetil2.designer.vb">
+      <DependentUpon>dlgSelectBudgetDetil2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgSelectBudgetDetil2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgSelectTravel_Advance.designer.vb">
+      <DependentUpon>dlgSelectTravel_Advance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgSelectTravel_Advance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgSplitRowAdvanceDetil_ManySplit.Designer.vb">
+      <DependentUpon>dlgSplitRowAdvanceDetil_ManySplit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgSplitRowAdvanceDetil_ManySplit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnAdvanceOrder_Select_Order.designer.vb">
+      <DependentUpon>dlgTrnAdvanceOrder_Select_Order.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnAdvanceOrder_Select_Order.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnAdvancePrintListSPD.designer.vb">
+      <DependentUpon>dlgTrnAdvancePrintListSPD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnAdvancePrintListSPD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnAdvance_SelectEps.designer.vb">
+      <DependentUpon>dlgTrnAdvance_SelectEps.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnAdvance_SelectEps.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnal_PV_Select_AdvanceTravel.Designer.vb">
+      <DependentUpon>dlgTrnJurnal_PV_Select_AdvanceTravel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnal_PV_Select_AdvanceTravel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\DlgAdvanceDisbursement_Advance.Designer.vb">
+      <DependentUpon>DlgAdvanceDisbursement_Advance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\DlgAdvanceDisbursement_Advance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\DlgAdvanceDisbursement_History.Designer.vb">
+      <DependentUpon>DlgAdvanceDisbursement_History.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\DlgAdvanceDisbursement_History.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\DlgDate.Designer.vb">
+      <DependentUpon>DlgDate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\DlgDate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgChangeEffectiveDate.Designer.vb">
+      <DependentUpon>dlgChangeEffectiveDate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgChangeEffectiveDate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnCirculationRekanan.Designer.vb">
+      <DependentUpon>dlgTrnCirculationRekanan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnCirculationRekanan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnal_PV_List_AP_ChangeBookDatePeriode.Designer.vb">
+      <DependentUpon>dlgTrnJurnal_PV_List_AP_ChangeBookDatePeriode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnal_PV_List_AP_ChangeBookDatePeriode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnal_PV_List_AP_MessageBox_PostingListResult.Designer.vb">
+      <DependentUpon>dlgTrnJurnal_PV_List_AP_MessageBox_PostingListResult.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnal_PV_List_AP_MessageBox_PostingListResult.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnal_PV_List_TransferRekeningWinner.designer.vb">
+      <DependentUpon>dlgTrnJurnal_PV_List_TransferRekeningWinner.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnal_PV_List_TransferRekeningWinner.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnal_PV_Select_AP_Prize.designer.vb">
+      <DependentUpon>dlgTrnJurnal_PV_Select_AP_Prize.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnal_PV_Select_AP_Prize.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnal_PV_List_RekeningWinner.designer.vb">
+      <DependentUpon>dlgTrnJurnal_PV_List_RekeningWinner.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnal_PV_List_RekeningWinner.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgSearch_Acc_Ca.designer.vb">
+      <DependentUpon>dlgSearch_Acc_Ca.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgSearch_Acc_Ca.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgSelectRekeningPrint.Designer.vb">
+      <DependentUpon>dlgSelectRekeningPrint.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgSelectRekeningPrint.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgSettingPrinterGiroCek.Designer.vb">
+      <DependentUpon>dlgSettingPrinterGiroCek.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgSettingPrinterGiroCek.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnalAddInvoice_selectRD.designer.vb">
+      <DependentUpon>dlgTrnJurnalAddInvoice_selectRD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnalAddInvoice_selectRD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnal_PV_List_Rekening1.designer.vb">
+      <DependentUpon>dlgTrnJurnal_PV_List_Rekening1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnal_PV_List_Rekening1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnal_PV_select_RD.Designer.vb">
+      <DependentUpon>dlgTrnJurnal_PV_select_RD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnal_PV_select_RD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnal_PV_Add_invoice.Designer.vb">
+      <DependentUpon>dlgTrnJurnal_PV_Add_invoice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnal_PV_Add_invoice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgMstAcc.Designer.vb">
+      <DependentUpon>dlgMstAcc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgMstAcc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnal_PV_Select_AdvanceOrder.Designer.vb">
+      <DependentUpon>dlgTrnJurnal_PV_Select_AdvanceOrder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnal_PV_Select_AdvanceOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgContractChoice.Designer.vb">
+      <DependentUpon>dlgContractChoice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgContractChoice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\DlgProses.designer.vb">
+      <DependentUpon>DlgProses.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\DlgProses.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnal_PV_Select_ST.designer.vb">
+      <DependentUpon>dlgTrnJurnal_PV_Select_ST.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnal_PV_Select_ST.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgContact.Designer.vb">
+      <DependentUpon>dlgContact.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgContact.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgAccount.Designer.vb">
+      <DependentUpon>dlgAccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgQueryBuilder.designer.vb">
+      <DependentUpon>dlgQueryBuilder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgQueryBuilder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgRptCirculationVoucher.designer.vb">
+      <DependentUpon>dlgRptCirculationVoucher.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgRptCirculationVoucher.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgRptJurnal.designer.vb">
+      <DependentUpon>dlgRptJurnal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgRptJurnal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgRptJurnal_PV.designer.vb">
+      <DependentUpon>dlgRptJurnal_PV.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgRptJurnal_PV.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgRptJurnal_PV_Choice.designer.vb">
+      <DependentUpon>dlgRptJurnal_PV_Choice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgRptJurnal_PV_Choice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgRptVoid.designer.vb">
+      <DependentUpon>dlgRptVoid.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgRptVoid.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgSearch.designer.vb">
+      <DependentUpon>dlgSearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnCirculationSelectPV.designer.vb">
+      <DependentUpon>dlgTrnCirculationSelectPV.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnCirculationSelectPV.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnal_PV_List_Rekening.designer.vb">
+      <DependentUpon>dlgTrnJurnal_PV_List_Rekening.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnal_PV_List_Rekening.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnal_PV_List_TransferRekening.designer.vb">
+      <DependentUpon>dlgTrnJurnal_PV_List_TransferRekening.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnal_PV_List_TransferRekening.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnal_PV_Select_Advance.Designer.vb">
+      <DependentUpon>dlgTrnJurnal_PV_Select_Advance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnal_PV_Select_Advance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnal_PV_Select_AP.designer.vb">
+      <DependentUpon>dlgTrnJurnal_PV_Select_AP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnal_PV_Select_AP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnal_PV_Select_VQ.Designer.vb">
+      <DependentUpon>dlgTrnJurnal_PV_Select_VQ.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnJurnal_PV_Select_VQ.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnReimburseSettlement_Select_ST.designer.vb">
+      <DependentUpon>dlgTrnReimburseSettlement_Select_ST.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnReimburseSettlement_Select_ST.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnSelectItemChild.designer.vb">
+      <DependentUpon>dlgTrnSelectItemChild.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnSelectItemChild.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnSelectItemChildListOrder.designer.vb">
+      <DependentUpon>dlgTrnSelectItemChildListOrder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIALOG\dlgTrnSelectItemChildListOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Entity\clsMstAccCa.vb" />
+    <Compile Include="Entity\clsTrnBankTransfer.vb" />
+    <Compile Include="Entity\clsTrnDocument.vb" />
+    <Compile Include="Entity\clsTrnJurnal.vb" />
+    <Compile Include="Entity\clsTrnLogEmail.vb" />
+    <Compile Include="Interface\ILocking.vb" />
+    <Compile Include="Module\Module1.vb" />
+    <Compile Include="Module\modMain.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="REPORT\rptOutstandingOrder.Designer.vb">
+      <DependentUpon>rptOutstandingOrder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="REPORT\rptOutstandingOrder.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UI PV-Adv-Order\uiTrnJurnal_PV_AdvanceOrder.designer.vb">
+      <DependentUpon>uiTrnJurnal_PV_AdvanceOrder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI PV-Adv-Order\uiTrnJurnal_PV_AdvanceOrder.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI PV-Adv-Travel\uiTrnJurnal_PV_AdvanceTravel_Auto.designer.vb">
+      <DependentUpon>uiTrnJurnal_PV_AdvanceTravel_Auto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI PV-Adv-Travel\uiTrnJurnal_PV_AdvanceTravel_Auto.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI PV-Adv-Travel\uiTrnJurnal_PV_AdvanceTravel.designer.vb">
+      <DependentUpon>uiTrnJurnal_PV_AdvanceTravel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI PV-Adv-Travel\uiTrnJurnal_PV_AdvanceTravel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\uiBase.designer.vb">
+      <DependentUpon>uiBase.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI\uiBase.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="UI\uiBase2.designer.vb">
+      <DependentUpon>uiBase2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI\uiBase2.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\uiWhatsApp.Designer.vb">
+      <DependentUpon>uiWhatsApp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI\uiWhatsApp.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI_REPORT\uiReportOutstandingOrder.Designer.vb">
+      <DependentUpon>uiReportOutstandingOrder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI_REPORT\uiReportOutstandingOrder.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI_REPORT\uiRptBankReport.Designer.vb">
+      <DependentUpon>uiRptBankReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI_REPORT\uiRptBankReport.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI_REPORT\uiRptBankTransfer.Designer.vb">
+      <DependentUpon>uiRptBankTransfer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI_REPORT\uiRptBankTransfer.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI_ST\uiTrnJurnal_PV_List_ST.designer.vb">
+      <DependentUpon>uiTrnJurnal_PV_List_ST.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI_ST\uiTrnJurnal_PV_List_ST.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\uiTrnAdvanceDisbursementList.Designer.vb">
+      <DependentUpon>uiTrnAdvanceDisbursementList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\uiTrnAdvanceDisbursementList.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\uiTrnJurnalPV_ChangeEffectiveDate.Designer.vb">
+      <DependentUpon>uiTrnJurnalPV_ChangeEffectiveDate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\uiTrnJurnalPV_ChangeEffectiveDate.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\uiTrnJurnal_PV_List_AP_Prize.designer.vb">
+      <DependentUpon>uiTrnJurnal_PV_List_AP_Prize.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\uiTrnJurnal_PV_List_AP_Prize.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\uiTrnJurnal_JV_Adjustment_BankSaldo.Designer.vb">
+      <DependentUpon>uiTrnJurnal_JV_Adjustment_BankSaldo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\uiTrnJurnal_JV_Adjustment_BankSaldo.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\uiTrnPVDocument2.Designer.vb">
+      <DependentUpon>uiTrnPVDocument2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\uiTrnPVDocument2.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\uiMstListCaAccountJurnalPV.Designer.vb">
+      <DependentUpon>uiMstListCaAccountJurnalPV.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\uiMstListCaAccountJurnalPV.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\uiMstAcc.Designer.vb">
+      <DependentUpon>uiMstAcc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\uiMstAcc.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\uiMstCaReport.designer.vb">
+      <DependentUpon>uiMstCaReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\uiMstCaReport.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\uiTrnJurnal_PV_List_AP.designer.vb">
+      <DependentUpon>uiTrnJurnal_PV_List_AP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\uiTrnJurnal_PV_List_AP.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\uiTrnPVDocument.Designer.vb">
+      <DependentUpon>uiTrnPVDocument.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\uiTrnPVDocument.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\uiMstBank.Designer.vb">
+      <DependentUpon>uiMstBank.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\uiMstBank.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\uiMstSettingSlip.Designer.vb">
+      <DependentUpon>uiMstSettingSlip.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\uiMstSettingSlip.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\uiTrnCirculationVoucher.designer.vb">
+      <DependentUpon>uiTrnCirculationVoucher.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\uiTrnCirculationVoucher.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\uiTrnJurnal_PV_Advance.designer.vb">
+      <DependentUpon>uiTrnJurnal_PV_Advance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\uiTrnJurnal_PV_Advance.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\uiTrnJurnal_PV_Manual.designer.vb">
+      <DependentUpon>uiTrnJurnal_PV_Manual.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\uiTrnJurnal_PV_Manual.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\uiTrnVoid.Designer.vb">
+      <DependentUpon>uiTrnVoid.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI_TRANSACTIONS\uiTrnVoid.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="DataClassesFrm.dbml.layout">
+      <DependentUpon>DataClassesFrm.dbml</DependentUpon>
+    </None>
+    <EmbeddedResource Include="DIALOG\dlgRptJurnal_PV_ChoiceTravel.resx">
+      <DependentUpon>dlgRptJurnal_PV_ChoiceTravel.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgSelectBudgetDetil.resx">
+      <DependentUpon>dlgSelectBudgetDetil.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgSelectBudgetDetil2.resx">
+      <DependentUpon>dlgSelectBudgetDetil2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgSelectTravel_Advance.resx">
+      <DependentUpon>dlgSelectTravel_Advance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgSplitRowAdvanceDetil_ManySplit.resx">
+      <DependentUpon>dlgSplitRowAdvanceDetil_ManySplit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgTrnAdvanceOrder_Select_Order.resx">
+      <DependentUpon>dlgTrnAdvanceOrder_Select_Order.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgTrnAdvancePrintListSPD.resx">
+      <DependentUpon>dlgTrnAdvancePrintListSPD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgTrnAdvance_SelectEps.resx">
+      <DependentUpon>dlgTrnAdvance_SelectEps.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgTrnJurnal_PV_Select_AdvanceTravel.resx">
+      <DependentUpon>dlgTrnJurnal_PV_Select_AdvanceTravel.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\DlgAdvanceDisbursement_Advance.resx">
+      <DependentUpon>DlgAdvanceDisbursement_Advance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\DlgAdvanceDisbursement_History.resx">
+      <DependentUpon>DlgAdvanceDisbursement_History.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\DlgDate.resx">
+      <DependentUpon>DlgDate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgChangeEffectiveDate.resx">
+      <DependentUpon>dlgChangeEffectiveDate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgTrnCirculationRekanan.resx">
+      <DependentUpon>dlgTrnCirculationRekanan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgTrnJurnal_PV_List_AP_ChangeBookDatePeriode.resx">
+      <DependentUpon>dlgTrnJurnal_PV_List_AP_ChangeBookDatePeriode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgTrnJurnal_PV_List_AP_MessageBox_PostingListResult.resx">
+      <DependentUpon>dlgTrnJurnal_PV_List_AP_MessageBox_PostingListResult.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgTrnJurnal_PV_List_TransferRekeningWinner.resx">
+      <DependentUpon>dlgTrnJurnal_PV_List_TransferRekeningWinner.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgTrnJurnal_PV_List_RekeningWinner.resx">
+      <DependentUpon>dlgTrnJurnal_PV_List_RekeningWinner.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgSearch_Acc_Ca.resx">
+      <DependentUpon>dlgSearch_Acc_Ca.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgSelectRekeningPrint.resx">
+      <DependentUpon>dlgSelectRekeningPrint.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgSettingPrinterGiroCek.resx">
+      <DependentUpon>dlgSettingPrinterGiroCek.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgTrnJurnalAddInvoice_selectRD.resx">
+      <DependentUpon>dlgTrnJurnalAddInvoice_selectRD.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgTrnJurnal_PV_List_Rekening1.resx">
+      <DependentUpon>dlgTrnJurnal_PV_List_Rekening1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgTrnJurnal_PV_select_RD.resx">
+      <DependentUpon>dlgTrnJurnal_PV_select_RD.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgTrnJurnal_PV_Add_invoice.resx">
+      <DependentUpon>dlgTrnJurnal_PV_Add_invoice.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgMstAcc.resx">
+      <DependentUpon>dlgMstAcc.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgTrnJurnal_PV_Select_AdvanceOrder.resx">
+      <DependentUpon>dlgTrnJurnal_PV_Select_AdvanceOrder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgAccount.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>dlgAccount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgContact.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>dlgContact.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgContractChoice.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>dlgContractChoice.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\DlgProses.resx">
+      <DependentUpon>DlgProses.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgQueryBuilder.resx">
+      <DependentUpon>dlgQueryBuilder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgRptJurnal.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>dlgRptJurnal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgRptJurnal_PV.resx">
+      <DependentUpon>dlgRptJurnal_PV.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgRptJurnal_PV_Choice.resx">
+      <DependentUpon>dlgRptJurnal_PV_Choice.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgRptVoid.resx">
+      <DependentUpon>dlgRptVoid.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgSearch.resx">
+      <DependentUpon>dlgSearch.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgTrnCirculationSelectPV.resx">
+      <DependentUpon>dlgTrnCirculationSelectPV.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgTrnJurnal_PV_List_Rekening.resx">
+      <DependentUpon>dlgTrnJurnal_PV_List_Rekening.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgTrnJurnal_PV_List_TransferRekening.resx">
+      <DependentUpon>dlgTrnJurnal_PV_List_TransferRekening.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgTrnJurnal_PV_Select_Advance.resx">
+      <DependentUpon>dlgTrnJurnal_PV_Select_Advance.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgTrnJurnal_PV_Select_VQ.resx">
+      <DependentUpon>dlgTrnJurnal_PV_Select_VQ.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgTrnSelectItemChild.resx">
+      <DependentUpon>dlgTrnSelectItemChild.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIALOG\dlgTrnSelectItemChildListOrder.resx">
+      <DependentUpon>dlgTrnSelectItemChildListOrder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORT\rptAdvancePrint_DetilListOrder2.rdlc" />
+    <EmbeddedResource Include="REPORT\rptAdvancePrint_HeaderListSPD.rdlc" />
+    <EmbeddedResource Include="REPORT\rptOutstandingOrderDetil.rdlc" />
+    <EmbeddedResource Include="REPORT\rptOutstandingOrder.rdlc" />
+    <EmbeddedResource Include="REPORT\rptOutstandingOrder.resx">
+      <DependentUpon>rptOutstandingOrder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORT\rptPV_HeaderListAdvance_Post1.rdlc" />
+    <EmbeddedResource Include="REPORT\rptPV_Detil1.rdlc" />
+    <EmbeddedResource Include="REPORT\rptPV_HeaderListAdvance1.rdlc" />
+    <EmbeddedResource Include="REPORT\rptPV_Manual_BG_Post.rdlc" />
+    <EmbeddedResource Include="REPORT\rptPV_Manual_Cek_Post.rdlc" />
+    <EmbeddedResource Include="REPORT\rptJurnal_PV_Manual_Post_Header.rdlc" />
+    <EmbeddedResource Include="REPORT\rptPV_HeaderManual_Post.rdlc" />
+    <EmbeddedResource Include="REPORT\rptPV_ListAP_BG_Post.rdlc" />
+    <EmbeddedResource Include="REPORT\rptPV_ListAP_Cek_Post.rdlc" />
+    <EmbeddedResource Include="REPORT\rptJurnal_PV_ListAP_Post_Header.rdlc" />
+    <EmbeddedResource Include="REPORT\rptJurnal_PV_ListAP_Header.rdlc" />
+    <EmbeddedResource Include="REPORT\rptPV_HeaderListAP_Post.rdlc" />
+    <EmbeddedResource Include="REPORT\rptPV_Advance_BG_Post.rdlc" />
+    <EmbeddedResource Include="REPORT\rptPV_Advance_Cek_Post.rdlc" />
+    <EmbeddedResource Include="REPORT\rptPV_HeaderListAdvance_Post.rdlc" />
+    <EmbeddedResource Include="REPORT\rptJurnal_PV_Advance_Post_Header.rdlc" />
+    <EmbeddedResource Include="REPORT\rptCirculationVoucher.rdlc" />
+    <EmbeddedResource Include="REPORT\rptCirculationVoucherDetil.rdlc" />
+    <EmbeddedResource Include="REPORT\rptJurnal_Detil.rdlc" />
+    <EmbeddedResource Include="REPORT\rptJurnal_PV_Advance_Header.rdlc" />
+    <EmbeddedResource Include="REPORT\rptJurnal_PV_Manual_Header.rdlc" />
+    <EmbeddedResource Include="REPORT\rptPV_Advance_BG.rdlc" />
+    <EmbeddedResource Include="REPORT\rptPV_Advance_Cek.rdlc" />
+    <EmbeddedResource Include="REPORT\rptPV_Detil.rdlc" />
+    <EmbeddedResource Include="REPORT\rptPV_HeaderListAdvance.rdlc" />
+    <EmbeddedResource Include="REPORT\rptPV_HeaderListAP.rdlc" />
+    <EmbeddedResource Include="REPORT\rptPV_HeaderManual.rdlc" />
+    <EmbeddedResource Include="REPORT\rptPV_ListAP_BG.rdlc" />
+    <EmbeddedResource Include="REPORT\rptPV_ListAP_Cek.rdlc" />
+    <EmbeddedResource Include="REPORT\rptPV_Manual_BG.rdlc" />
+    <EmbeddedResource Include="REPORT\rptPV_Manual_Cek.rdlc" />
+    <EmbeddedResource Include="REPORT\RptVoid.rdlc" />
+    <EmbeddedResource Include="REPORT_CEKGIRO\ArthaGraha\rptCekArthaGraha.rdlc" />
+    <EmbeddedResource Include="REPORT_CEKGIRO\ArthaGraha\rptGiroArthaGraha.rdlc" />
+    <EmbeddedResource Include="REPORT_CEKGIRO\BCA\rptCekBCA.rdlc" />
+    <EmbeddedResource Include="REPORT_CEKGIRO\BCA\rptGiroBCA.rdlc" />
+    <EmbeddedResource Include="REPORT_CEKGIRO\Mandiri\rptCekMandiri.rdlc" />
+    <EmbeddedResource Include="REPORT_CEKGIRO\Mandiri\rptGiroMandiri.rdlc" />
+    <EmbeddedResource Include="REPORT_CEKGIRO\Mandiri\rptGiroMandiri_BELUM.rdlc" />
+    <EmbeddedResource Include="REPORT_CEKGIRO\Danamon\rptCekDanamon.rdlc" />
+    <EmbeddedResource Include="REPORT_CEKGIRO\CIMBNIAGA\rptCekCimbNiaga.rdlc" />
+    <EmbeddedResource Include="REPORT_CEKGIRO\CIMBNIAGA\rptGiroCimbNiaga.rdlc" />
+    <EmbeddedResource Include="REPORT_CEKGIRO\Danamon\rptGiroDanamon.rdlc" />
+    <EmbeddedResource Include="UI PV-Adv-Order\uiTrnJurnal_PV_AdvanceOrder.resx">
+      <DependentUpon>uiTrnJurnal_PV_AdvanceOrder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI PV-Adv-Travel\uiTrnJurnal_PV_AdvanceTravel_Auto.resx">
+      <DependentUpon>uiTrnJurnal_PV_AdvanceTravel_Auto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI PV-Adv-Travel\uiTrnJurnal_PV_AdvanceTravel.resx">
+      <DependentUpon>uiTrnJurnal_PV_AdvanceTravel.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\uiBase.resx">
+      <DependentUpon>uiBase.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\uiBase2.resx">
+      <DependentUpon>uiBase2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\uiWhatsApp.resx">
+      <DependentUpon>uiWhatsApp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_REPORT\uiReportOutstandingOrder.resx">
+      <DependentUpon>uiReportOutstandingOrder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_REPORT\uiRptBankReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>uiRptBankReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_REPORT\uiRptBankTransfer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>uiRptBankTransfer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_ST\uiTrnJurnal_PV_List_ST.resx">
+      <DependentUpon>uiTrnJurnal_PV_List_ST.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_TRANSACTIONS\uiTrnAdvanceDisbursementList.resx">
+      <DependentUpon>uiTrnAdvanceDisbursementList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_TRANSACTIONS\uiTrnJurnalPV_ChangeEffectiveDate.resx">
+      <DependentUpon>uiTrnJurnalPV_ChangeEffectiveDate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_TRANSACTIONS\uiTrnJurnal_PV_List_AP_Prize.resx">
+      <DependentUpon>uiTrnJurnal_PV_List_AP_Prize.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_TRANSACTIONS\uiTrnJurnal_JV_Adjustment_BankSaldo.resx">
+      <DependentUpon>uiTrnJurnal_JV_Adjustment_BankSaldo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_TRANSACTIONS\uiTrnPVDocument2.resx">
+      <DependentUpon>uiTrnPVDocument2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_TRANSACTIONS\uiMstListCaAccountJurnalPV.resx">
+      <DependentUpon>uiMstListCaAccountJurnalPV.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_TRANSACTIONS\Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_TRANSACTIONS\uiMstAcc.resx">
+      <DependentUpon>uiMstAcc.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_TRANSACTIONS\uiMstCaReport.resx">
+      <DependentUpon>uiMstCaReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_TRANSACTIONS\uiTrnJurnal_PV_List_AP.resx">
+      <DependentUpon>uiTrnJurnal_PV_List_AP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_TRANSACTIONS\uiTrnPVDocument.resx">
+      <DependentUpon>uiTrnPVDocument.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_TRANSACTIONS\uiMstBank.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>uiMstBank.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_TRANSACTIONS\uiMstSettingSlip.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>uiMstSettingSlip.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_TRANSACTIONS\uiTrnCirculationVoucher.resx">
+      <DependentUpon>uiTrnCirculationVoucher.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_TRANSACTIONS\uiTrnJurnal_PV_Advance.resx">
+      <DependentUpon>uiTrnJurnal_PV_Advance.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_TRANSACTIONS\uiTrnJurnal_PV_Manual.resx">
+      <DependentUpon>uiTrnJurnal_PV_Manual.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_TRANSACTIONS\uiTrnVoid.resx">
+      <DependentUpon>uiTrnVoid.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DataClassesFrm.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClassesFrm.designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\DataSources\ACT_FINANCE.DataSource.ClsRptAdvanceDetil.datasource" />
+    <None Include="My Project\DataSources\ACT_FINANCE.DataSource.ClsRptAdvanceHeader.datasource" />
+    <None Include="My Project\DataSources\ACT_FINANCE.DataSource.clsRptCirculationVoucher.datasource" />
+    <None Include="My Project\DataSources\ACT_FINANCE.DataSource.clsRptCirculationVoucherDetil.datasource" />
+    <None Include="My Project\DataSources\ACT_FINANCE.DataSource.clsRptOutstandingOrder.datasource" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+    <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\DataSources\ACT_FINANCE.DataSource.clsRptJurnalPV_Cek.datasource" />
+    <None Include="My Project\DataSources\ACT_FINANCE.DataSource.clsRptJurnalPV_Detil.datasource" />
+    <None Include="My Project\DataSources\ACT_FINANCE.DataSource.clsRptJurnalPV_Header.datasource" />
+    <None Include="My Project\DataSources\ACT_FINANCE.DataSource.clsRptJurnal_Detil.datasource" />
+    <None Include="My Project\DataSources\ACT_FINANCE.DataSource.clsRptJurnal_Header.datasource" />
+    <None Include="Resources\background4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\box_s.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calculator_s.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BookMark_s.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\excel-icon.ico.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\excel-icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\export-excel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printer_settingsimage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printer_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\configuration_settings.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

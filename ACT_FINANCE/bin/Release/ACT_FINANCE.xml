@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ACT_FINANCE
+</name>
+</assembly>
+<members>
+<member name="P:ACT_FINANCE.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ACT_FINANCE.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:ACT_FINANCE.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.Dispose(System.Boolean)">
+Form overrides dispose to clean up the component list.
+
+</member>
+</members>
+</doc>

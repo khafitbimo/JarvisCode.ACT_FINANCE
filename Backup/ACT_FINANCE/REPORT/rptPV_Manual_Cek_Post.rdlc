@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2005/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <DataSources>
+    <DataSource Name="DummyDataSource">
+      <rd:DataSourceID>eea495f9-8193-43d8-9759-4ee4d47d60b9</rd:DataSourceID>
+      <ConnectionProperties>
+        <DataProvider>SQL</DataProvider>
+        <ConnectString />
+      </ConnectionProperties>
+    </DataSource>
+  </DataSources>
+  <InteractiveHeight>11in</InteractiveHeight>
+  <rd:DrawGrid>false</rd:DrawGrid>
+  <InteractiveWidth>8.5in</InteractiveWidth>
+  <rd:SnapToGrid>false</rd:SnapToGrid>
+  <RightMargin>1in</RightMargin>
+  <LeftMargin>1in</LeftMargin>
+  <BottomMargin>1in</BottomMargin>
+  <rd:ReportID>f9368155-01b5-4768-9dc1-34be544d7e3a</rd:ReportID>
+  <DataSets>
+    <DataSet Name="ACT_FINANCE_DataSource_clsRptJurnalPV_Cek">
+      <Fields>
+        <Field Name="jumlah_dikirim">
+          <DataField>jumlah_dikirim</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="jumlah_terbilang">
+          <DataField>jumlah_terbilang</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="jurnal_date">
+          <DataField>jurnal_date</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="rekanan_namereport">
+          <DataField>rekanan_namereport</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>DummyDataSource</DataSourceName>
+        <CommandText />
+        <rd:UseGenericDesigner>true</rd:UseGenericDesigner>
+      </Query>
+      <rd:DataSetInfo>
+        <rd:DataSetName>ACT_FINANCE.DataSource</rd:DataSetName>
+        <rd:TableName>clsRptJurnalPV_Cek</rd:TableName>
+        <rd:ObjectDataSourceType>ACT_FINANCE.DataSource.clsRptJurnalPV_Cek, ACT_FINANCE, Version=1.0.4031.27454, Culture=neutral, PublicKeyToken=null</rd:ObjectDataSourceType>
+      </rd:DataSetInfo>
+    </DataSet>
+  </DataSets>
+  <Code />
+  <Width>6.75in</Width>
+  <Body>
+    <ReportItems>
+      <Textbox Name="jumlah_dikirim">
+        <rd:DefaultName>jumlah_dikirim</rd:DefaultName>
+        <Top>1.0625in</Top>
+        <Width>1.91667in</Width>
+        <Style>
+          <FontWeight>700</FontWeight>
+          <TextAlign>Left</TextAlign>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>2</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>4.51042in</Left>
+        <Height>0.25in</Height>
+        <Value>=Fields!jumlah_dikirim.Value</Value>
+      </Textbox>
+      <Textbox Name="rekanan_namereport">
+        <rd:DefaultName>rekanan_namereport</rd:DefaultName>
+        <Top>0.5in</Top>
+        <Width>3in</Width>
+        <Style>
+          <FontWeight>700</FontWeight>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>1</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>2.125in</Left>
+        <Height>0.25in</Height>
+        <Value>=Fields!rekanan_namereport.Value</Value>
+      </Textbox>
+      <Textbox Name="jumlah_terbilang">
+        <rd:DefaultName>jumlah_terbilang</rd:DefaultName>
+        <Top>0.75in</Top>
+        <Width>6.13541in</Width>
+        <Style>
+          <FontWeight>700</FontWeight>
+          <TextAlign>Left</TextAlign>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <Left>0.29167in</Left>
+        <Height>0.73959in</Height>
+        <Value>="                                         " &amp; Fields!jumlah_terbilang.Value</Value>
+      </Textbox>
+    </ReportItems>
+    <Height>2in</Height>
+  </Body>
+  <Language>en-US</Language>
+  <TopMargin>1in</TopMargin>
+</Report>

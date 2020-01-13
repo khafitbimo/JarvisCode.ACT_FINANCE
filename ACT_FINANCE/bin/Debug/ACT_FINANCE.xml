@@ -1,0 +1,82 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ACT_FINANCE
+</name>
+</assembly>
+<members>
+<member name="P:ACT_FINANCE.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ACT_FINANCE.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:ACT_FINANCE.My.Resources.Resources.background4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ACT_FINANCE.My.Resources.Resources.BookMark_s">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ACT_FINANCE.My.Resources.Resources.box_s">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ACT_FINANCE.My.Resources.Resources.Calculator_s">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ACT_FINANCE.My.Resources.Resources.excel_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:ACT_FINANCE.My.Resources.Resources.export_excel">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ACT_FINANCE.My.Resources.Resources.printer_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ACT_FINANCE.My.Resources.Resources.printer_settingsimage">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:ACT_FINANCE.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:ACT_FINANCE.dlgTrnJurnal_PV_List_RekeningWinner.Dispose(System.Boolean)">
+Form overrides dispose to clean up the component list.
+
+</member><member name="M:ACT_FINANCE.uiTrnCirculationVoucher.uiTrnCirculationVouccher_AppDireksi(System.String,System.Int32,System.Int32)">
+	<summary>
+	</summary>
+	<param name="circulation_id"></param>
+	<param name="circulationdetil_line"></param>
+	<param name="app_type">0 = Approve, 1 = Disapprove</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening1.Dispose(System.Boolean)">
+Form overrides dispose to clean up the component list.
+
+</member><member name="F:ACT_FINANCE.dlgTrnAdvance_SelectEps.tbl_trnAdvancedetileps">
+Dim retObj As uiAdvanceRequest.SelectEpsDialogReturn = New uiAdvanceRequest.SelectEpsDialogReturn()
+
+</member><member name="M:ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.Dispose(System.Boolean)">
+Form overrides dispose to clean up the component list.
+
+</member><member name="F:ACT_FINANCE.dlgTrnSelectItemChild.retObj">
+Private rettbl As DataTable = clsDataset.CreateTblTrnAdvanceItemDetil()
+
+</member><member name="F:ACT_FINANCE.dlgTrnSelectItemChildListOrder.retObj">
+Private rettbl As DataTable = clsDataset.CreateTblTrnAdvanceItemDetil()
+
+</member>
+</members>
+</doc>

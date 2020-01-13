@@ -1,0 +1,1372 @@
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.pdb
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.xml
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\bin\Debug\FlatTabControl.dll
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Resources.resources
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase.resources
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnCirculationVoucher.resources
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbproj.GenerateResource.Cache
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.xml
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.pdb
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucher.rdlc
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucherDetil.rdlc
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.cache
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.pdb
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.xml
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\bin\Debug\FlatTabControl.dll
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG_Post.rdlc
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek_Post.rdlc
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance_Post.rdlc
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Post_Header.rdlc
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucher.rdlc
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucherDetil.rdlc
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_Detil.rdlc
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Header.rdlc
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Header.rdlc
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG.rdlc
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek.rdlc
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Detil.rdlc
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance.rdlc
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual.rdlc
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal.resources
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV.resources
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch.resources
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Resources.resources
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase.resources
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankReport.resources
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnCirculationVoucher.resources
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbproj.GenerateResource.Cache
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.xml
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.pdb
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG_Post.rdlc
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek_Post.rdlc
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Post_Header.rdlc
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Header.rdlc
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP_Post.rdlc
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP.rdlc
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG.rdlc
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek.rdlc
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG_Post.rdlc
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek_Post.rdlc
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Post_Header.rdlc
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual_Post.rdlc
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG.rdlc
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek.rdlc
+C:\Documents and Settings\yanuar.transtv\Desktop\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG_Post.rdlc
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek_Post.rdlc
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Post_Header.rdlc
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual_Post.rdlc
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG_Post.rdlc
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek_Post.rdlc
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Post_Header.rdlc
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Header.rdlc
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP_Post.rdlc
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG_Post.rdlc
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek_Post.rdlc
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance_Post.rdlc
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Post_Header.rdlc
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_Detil.rdlc
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Header.rdlc
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Header.rdlc
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG.rdlc
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek.rdlc
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Detil.rdlc
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance.rdlc
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP.rdlc
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual.rdlc
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG.rdlc
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek.rdlc
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG.rdlc
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek.rdlc
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal.resources
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV.resources
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch.resources
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankReport.resources
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+C:\Users\Yanuar Andriyana\Desktop\new\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.pdb
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.xml
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\bin\Debug\FlatTabControl.dll
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ResolveAssemblyReference.cache
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG_Post.rdlc
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek_Post.rdlc
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Post_Header.rdlc
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual_Post.rdlc
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG_Post.rdlc
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek_Post.rdlc
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Post_Header.rdlc
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Header.rdlc
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP_Post.rdlc
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG_Post.rdlc
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek_Post.rdlc
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance_Post.rdlc
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Post_Header.rdlc
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucher.rdlc
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucherDetil.rdlc
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_Detil.rdlc
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Header.rdlc
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Header.rdlc
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG.rdlc
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek.rdlc
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Detil.rdlc
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance.rdlc
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP.rdlc
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual.rdlc
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG.rdlc
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek.rdlc
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG.rdlc
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek.rdlc
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal.resources
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV.resources
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch.resources
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Resources.resources
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase.resources
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankReport.resources
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnCirculationVoucher.resources
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbproj.GenerateResource.Cache
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.cache
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.compiled
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.xml
+E:\Siap Dibawa\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.pdb
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.pdb
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.xml
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\bin\Debug\FlatTabControl.dll
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ResolveAssemblyReference.cache
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG_Post.rdlc
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek_Post.rdlc
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Post_Header.rdlc
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual_Post.rdlc
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG_Post.rdlc
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek_Post.rdlc
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Post_Header.rdlc
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Header.rdlc
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP_Post.rdlc
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG_Post.rdlc
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek_Post.rdlc
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance_Post.rdlc
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Post_Header.rdlc
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucher.rdlc
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucherDetil.rdlc
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_Detil.rdlc
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Header.rdlc
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Header.rdlc
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG.rdlc
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek.rdlc
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Detil.rdlc
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance.rdlc
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP.rdlc
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual.rdlc
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG.rdlc
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek.rdlc
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG.rdlc
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek.rdlc
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal.resources
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV.resources
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch.resources
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Resources.resources
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase.resources
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankReport.resources
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnCirculationVoucher.resources
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbproj.GenerateResource.Cache
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.cache
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.compiled
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.xml
+E:\VB.NET\NEW UPDATE AGAIN\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.pdb
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.pdb
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.xml
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\bin\Debug\FlatTabControl.dll
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ResolveAssemblyReference.cache
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG_Post.rdlc
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek_Post.rdlc
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Post_Header.rdlc
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual_Post.rdlc
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG_Post.rdlc
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek_Post.rdlc
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Post_Header.rdlc
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Header.rdlc
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP_Post.rdlc
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG_Post.rdlc
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek_Post.rdlc
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance_Post.rdlc
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Post_Header.rdlc
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucher.rdlc
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucherDetil.rdlc
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_Detil.rdlc
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Header.rdlc
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Header.rdlc
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG.rdlc
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek.rdlc
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Detil.rdlc
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance.rdlc
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP.rdlc
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual.rdlc
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG.rdlc
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek.rdlc
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG.rdlc
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek.rdlc
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgAccount.resources
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContact.resources
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal.resources
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV.resources
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch.resources
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Resources.resources
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase.resources
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankReport.resources
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstBank.resources
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnCirculationVoucher.resources
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbproj.GenerateResource.Cache
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.cache
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.compiled
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.xml
+C:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.pdb
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.pdb
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.xml
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\bin\Debug\FlatTabControl.dll
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG_Post.rdlc
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek_Post.rdlc
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Post_Header.rdlc
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual_Post.rdlc
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG_Post.rdlc
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek_Post.rdlc
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Post_Header.rdlc
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Header.rdlc
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP_Post.rdlc
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG_Post.rdlc
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek_Post.rdlc
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance_Post.rdlc
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Post_Header.rdlc
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucher.rdlc
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucherDetil.rdlc
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_Detil.rdlc
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Header.rdlc
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Header.rdlc
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG.rdlc
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek.rdlc
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Detil.rdlc
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance.rdlc
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP.rdlc
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual.rdlc
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG.rdlc
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek.rdlc
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG.rdlc
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek.rdlc
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgAccount.resources
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContact.resources
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal.resources
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV.resources
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch.resources
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Resources.resources
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase.resources
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankReport.resources
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstBank.resources
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnCirculationVoucher.resources
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbproj.GenerateResource.Cache
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.cache
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.compiled
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.xml
+D:\Work\Soft\[ARI]-UPDATE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.pdb
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.pdb
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.xml
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\bin\Debug\FlatTabControl.dll
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ResolveAssemblyReference.cache
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG_Post.rdlc
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek_Post.rdlc
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Post_Header.rdlc
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual_Post.rdlc
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG_Post.rdlc
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek_Post.rdlc
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Post_Header.rdlc
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Header.rdlc
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP_Post.rdlc
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG_Post.rdlc
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek_Post.rdlc
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance_Post.rdlc
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Post_Header.rdlc
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucher.rdlc
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucherDetil.rdlc
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_Detil.rdlc
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Header.rdlc
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Header.rdlc
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG.rdlc
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek.rdlc
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Detil.rdlc
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance.rdlc
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP.rdlc
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual.rdlc
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG.rdlc
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek.rdlc
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG.rdlc
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek.rdlc
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgAccount.resources
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContact.resources
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal.resources
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV.resources
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch.resources
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Resources.resources
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase.resources
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankReport.resources
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstBank.resources
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnCirculationVoucher.resources
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbproj.GenerateResource.Cache
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.cache
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.compiled
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.xml
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.pdb
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnVoid.resources
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptVoid.resources
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_VQ.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.pdb
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.xml
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\bin\Debug\FlatTabControl.dll
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG_Post.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek_Post.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Post_Header.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual_Post.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG_Post.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek_Post.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Post_Header.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Header.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP_Post.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG_Post.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek_Post.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance_Post.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Post_Header.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucher.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucherDetil.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_Detil.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Header.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Header.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Detil.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgAccount.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContact.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptVoid.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_VQ.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Resources.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankReport.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstBank.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnCirculationVoucher.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnVoid.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbproj.GenerateResource.Cache
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.xml
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.pdb
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Manual_BG_Post.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Manual_Cek_Post.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptJurnal_PV_Manual_Post_Header.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_HeaderManual_Post.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_ListAP_BG_Post.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_ListAP_Cek_Post.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptJurnal_PV_ListAP_Post_Header.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptJurnal_PV_ListAP_Header.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_HeaderListAP_Post.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Advance_BG_Post.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Advance_Cek_Post.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_HeaderListAdvance_Post.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptJurnal_PV_Advance_Post_Header.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptCirculationVoucher.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptCirculationVoucherDetil.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptJurnal_Detil.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptJurnal_PV_Advance_Header.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptJurnal_PV_Manual_Header.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Advance_BG.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Advance_Cek.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Detil.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_HeaderListAdvance.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_HeaderListAP.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_HeaderManual.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_ListAP_BG.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_ListAP_Cek.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Manual_BG.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Manual_Cek.rdlc
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgAccount.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgContact.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgRptJurnal.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgRptJurnal_PV.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgRptVoid.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgSearch.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgTrnJurnal_PV_Select_VQ.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.Resources.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiBase.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiRptBankReport.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiMstBank.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiTrnCirculationVoucher.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiTrnVoid.resources
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.vbproj.GenerateResource.Cache
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\RdlCompile.cache
+C:\Documents and Settings\yofis\My Documents\[ resus™ ]\[ J O B S ]\ACT_FINANCE\ACT_FINANCE\obj\Release\RdlCompile.compiled
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.pdb
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.xml
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\bin\Debug\FlatTabControl.dll
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ResolveAssemblyReference.cache
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG_Post.rdlc
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek_Post.rdlc
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Post_Header.rdlc
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual_Post.rdlc
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG_Post.rdlc
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek_Post.rdlc
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Post_Header.rdlc
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Header.rdlc
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP_Post.rdlc
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG_Post.rdlc
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek_Post.rdlc
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance_Post.rdlc
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Post_Header.rdlc
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucher.rdlc
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucherDetil.rdlc
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_Detil.rdlc
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Header.rdlc
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Header.rdlc
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG.rdlc
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek.rdlc
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Detil.rdlc
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance.rdlc
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP.rdlc
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual.rdlc
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG.rdlc
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek.rdlc
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG.rdlc
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek.rdlc
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgAccount.resources
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContact.resources
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal.resources
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV.resources
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptVoid.resources
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch.resources
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_VQ.resources
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Resources.resources
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase.resources
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankReport.resources
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstBank.resources
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnCirculationVoucher.resources
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnVoid.resources
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbproj.GenerateResource.Cache
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.cache
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.compiled
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.xml
+\\mis-INDRAPR\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.pdb
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.pdb
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.xml
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\bin\Debug\FlatTabControl.dll
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG_Post.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek_Post.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Post_Header.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual_Post.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG_Post.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek_Post.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Post_Header.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Header.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP_Post.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG_Post.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek_Post.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance_Post.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Post_Header.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucher.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucherDetil.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_Detil.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Header.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Header.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Detil.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgAccount.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContact.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptVoid.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_VQ.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Resources.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankReport.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstBank.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnCirculationVoucher.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnVoid.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbproj.GenerateResource.Cache
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.cache
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.compiled
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.xml
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.pdb
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ResolveAssemblyReference.cache
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Manual_BG_Post.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Manual_Cek_Post.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptJurnal_PV_Manual_Post_Header.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_HeaderManual_Post.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_ListAP_BG_Post.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_ListAP_Cek_Post.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptJurnal_PV_ListAP_Post_Header.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptJurnal_PV_ListAP_Header.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_HeaderListAP_Post.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Advance_BG_Post.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Advance_Cek_Post.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_HeaderListAdvance_Post.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptJurnal_PV_Advance_Post_Header.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptCirculationVoucher.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptCirculationVoucherDetil.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptJurnal_Detil.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptJurnal_PV_Advance_Header.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptJurnal_PV_Manual_Header.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Advance_BG.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Advance_Cek.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Detil.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_HeaderListAdvance.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_HeaderListAP.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_HeaderManual.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_ListAP_BG.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_ListAP_Cek.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Manual_BG.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Manual_Cek.rdlc
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgAccount.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgContact.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgRptJurnal.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgRptJurnal_PV.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgRptVoid.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgSearch.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgTrnJurnal_PV_Select_VQ.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.Resources.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiBase.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiRptBankReport.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiMstBank.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiTrnCirculationVoucher.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiTrnVoid.resources
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.vbproj.GenerateResource.Cache
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\RdlCompile.cache
+D:\Work\Soft\ACT_FINANCE\ACT_FINANCE\obj\Release\RdlCompile.compiled
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.pdb
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.xml
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\bin\Debug\FlatTabControl.dll
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG_Post.rdlc
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek_Post.rdlc
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Post_Header.rdlc
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual_Post.rdlc
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG_Post.rdlc
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek_Post.rdlc
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Post_Header.rdlc
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Header.rdlc
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP_Post.rdlc
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG_Post.rdlc
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek_Post.rdlc
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance_Post.rdlc
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Post_Header.rdlc
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucher.rdlc
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucherDetil.rdlc
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_Detil.rdlc
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Header.rdlc
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Header.rdlc
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG.rdlc
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek.rdlc
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Detil.rdlc
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance.rdlc
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP.rdlc
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual.rdlc
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG.rdlc
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek.rdlc
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG.rdlc
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek.rdlc
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgAccount.resources
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContact.resources
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal.resources
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV.resources
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptVoid.resources
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch.resources
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_VQ.resources
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Resources.resources
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase.resources
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankReport.resources
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstBank.resources
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnCirculationVoucher.resources
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnVoid.resources
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbproj.GenerateResource.Cache
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.cache
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.compiled
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.xml
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.pdb
+E:\Documents and Settings\itmagang\Desktop\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.RptVoid.rdlc
+\\mis-23252\Insosys Source\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.RptVoid.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.pdb
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.xml
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\bin\Debug\FlatTabControl.dll
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ResolveAssemblyReference.cache
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG_Post.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek_Post.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Post_Header.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual_Post.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG_Post.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek_Post.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Post_Header.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Header.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP_Post.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG_Post.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek_Post.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance_Post.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Post_Header.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucher.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucherDetil.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_Detil.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Header.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Header.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Detil.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.RptVoid.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgAccount.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContact.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptVoid.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_VQ.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Resources.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankReport.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstBank.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnCirculationVoucher.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnVoid.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbproj.GenerateResource.Cache
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.cache
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.compiled
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.xml
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.pdb
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ResolveAssemblyReference.cache
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Manual_BG_Post.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Manual_Cek_Post.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptJurnal_PV_Manual_Post_Header.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_HeaderManual_Post.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_ListAP_BG_Post.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_ListAP_Cek_Post.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptJurnal_PV_ListAP_Post_Header.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptJurnal_PV_ListAP_Header.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_HeaderListAP_Post.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Advance_BG_Post.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Advance_Cek_Post.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_HeaderListAdvance_Post.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptJurnal_PV_Advance_Post_Header.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptCirculationVoucher.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptCirculationVoucherDetil.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptJurnal_Detil.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptJurnal_PV_Advance_Header.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptJurnal_PV_Manual_Header.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Advance_BG.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Advance_Cek.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Detil.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_HeaderListAdvance.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_HeaderListAP.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_HeaderManual.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_ListAP_BG.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_ListAP_Cek.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Manual_BG.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Manual_Cek.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.RptVoid.rdlc
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgAccount.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgContact.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgRptJurnal.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgRptJurnal_PV.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgRptVoid.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgSearch.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgTrnJurnal_PV_Select_VQ.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.Resources.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiBase.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiRptBankReport.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiMstBank.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiTrnCirculationVoucher.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiTrnVoid.resources
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.vbproj.GenerateResource.Cache
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\RdlCompile.cache
+D:\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\RdlCompile.compiled
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.pdb
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.xml
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\bin\Debug\FlatTabControl.dll
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ResolveAssemblyReference.cache
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG_Post.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek_Post.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Post_Header.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual_Post.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG_Post.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek_Post.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Post_Header.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Header.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP_Post.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG_Post.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek_Post.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance_Post.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Post_Header.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucher.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucherDetil.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_Detil.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Header.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Header.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Detil.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.RptVoid.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgAccount.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContact.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptVoid.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_VQ.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Resources.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankReport.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstBank.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnCirculationVoucher.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnVoid.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbproj.GenerateResource.Cache
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.cache
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.compiled
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.xml
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.pdb
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstSettingSlip.resources
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.pdb
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.xml
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\bin\Debug\FlatTabControl.dll
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ResolveAssemblyReference.cache
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG_Post.rdlc
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek_Post.rdlc
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Post_Header.rdlc
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual_Post.rdlc
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG_Post.rdlc
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek_Post.rdlc
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Post_Header.rdlc
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Header.rdlc
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP_Post.rdlc
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG_Post.rdlc
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek_Post.rdlc
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance_Post.rdlc
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Post_Header.rdlc
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucher.rdlc
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucherDetil.rdlc
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_Detil.rdlc
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Header.rdlc
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Header.rdlc
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG.rdlc
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek.rdlc
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Detil.rdlc
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance.rdlc
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP.rdlc
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual.rdlc
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG.rdlc
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek.rdlc
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG.rdlc
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek.rdlc
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.RptVoid.rdlc
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgAccount.resources
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContact.resources
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal.resources
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV.resources
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptVoid.resources
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch.resources
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_VQ.resources
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Resources.resources
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase.resources
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankReport.resources
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstBank.resources
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstSettingSlip.resources
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnCirculationVoucher.resources
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnVoid.resources
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbproj.GenerateResource.Cache
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.cache
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.compiled
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.xml
+G:\INSOSYS SOURCE CODE APRIL 2012 FOR DEVELOP\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.pdb
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.pdb
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.xml
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\bin\Debug\FlatTabControl.dll
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ResolveAssemblyReference.cache
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG_Post.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek_Post.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Post_Header.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual_Post.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG_Post.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek_Post.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Post_Header.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Header.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP_Post.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG_Post.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek_Post.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance_Post.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Post_Header.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucher.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucherDetil.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_Detil.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Header.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Header.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Detil.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.RptVoid.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgAccount.resources
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContact.resources
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal.resources
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV.resources
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptVoid.resources
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch.resources
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_VQ.resources
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Resources.resources
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase.resources
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankReport.resources
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstBank.resources
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstSettingSlip.resources
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnCirculationVoucher.resources
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnVoid.resources
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbproj.GenerateResource.Cache
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.cache
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.compiled
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.xml
+G:\SOURCE CODE INSOSYS 2012 FIX\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.pdb
+G:\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll
+G:\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.pdb
+G:\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.xml
+G:\ACT_FINANCE\ACT_FINANCE\bin\Debug\FlatTabControl.dll
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ResolveAssemblyReference.cache
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG_Post.rdlc
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek_Post.rdlc
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Post_Header.rdlc
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual_Post.rdlc
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG_Post.rdlc
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek_Post.rdlc
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Post_Header.rdlc
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Header.rdlc
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP_Post.rdlc
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG_Post.rdlc
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek_Post.rdlc
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance_Post.rdlc
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Post_Header.rdlc
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucher.rdlc
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucherDetil.rdlc
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_Detil.rdlc
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Header.rdlc
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Header.rdlc
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG.rdlc
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek.rdlc
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Detil.rdlc
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance.rdlc
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP.rdlc
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual.rdlc
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG.rdlc
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek.rdlc
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG.rdlc
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek.rdlc
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.RptVoid.rdlc
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgAccount.resources
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContact.resources
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal.resources
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV.resources
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptVoid.resources
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch.resources
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_VQ.resources
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Resources.resources
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase.resources
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankReport.resources
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstBank.resources
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstSettingSlip.resources
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnCirculationVoucher.resources
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnVoid.resources
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbproj.GenerateResource.Cache
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.cache
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.compiled
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.xml
+G:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.pdb
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.pdb
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.xml
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\bin\Debug\FlatTabControl.dll
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ResolveAssemblyReference.cache
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG_Post.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek_Post.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Post_Header.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual_Post.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG_Post.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek_Post.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Post_Header.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Header.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP_Post.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG_Post.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek_Post.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance_Post.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Post_Header.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucher.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucherDetil.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_Detil.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Header.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Header.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Detil.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.RptVoid.rdlc
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgAccount.resources
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContact.resources
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal.resources
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV.resources
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptVoid.resources
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch.resources
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_VQ.resources
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Resources.resources
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase.resources
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankReport.resources
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstBank.resources
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstSettingSlip.resources
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnCirculationVoucher.resources
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnVoid.resources
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbproj.GenerateResource.Cache
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.cache
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.compiled
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.xml
+G:\SOURCE CODE INSOSYS 2012 FIX_NEW\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.pdb
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_ST.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgQueryBuilder.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContractChoice.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankTransfer.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ResolveAssemblyReference.cache
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Manual_BG_Post.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Manual_Cek_Post.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptJurnal_PV_Manual_Post_Header.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_HeaderManual_Post.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_ListAP_BG_Post.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_ListAP_Cek_Post.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptJurnal_PV_ListAP_Post_Header.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptJurnal_PV_ListAP_Header.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_HeaderListAP_Post.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Advance_BG_Post.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Advance_Cek_Post.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_HeaderListAdvance_Post.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptJurnal_PV_Advance_Post_Header.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptCirculationVoucher.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptCirculationVoucherDetil.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptJurnal_Detil.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptJurnal_PV_Advance_Header.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptJurnal_PV_Manual_Header.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Advance_BG.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Advance_Cek.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Detil.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_HeaderListAdvance.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_HeaderListAP.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_HeaderManual.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_ListAP_BG.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_ListAP_Cek.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Manual_BG.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.rptPV_Manual_Cek.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.RptVoid.rdlc
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgAccount.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgContact.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgContractChoice.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgQueryBuilder.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgRptJurnal.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgRptJurnal_PV.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgRptVoid.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgSearch.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dlgTrnJurnal_PV_Select_VQ.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.Resources.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiBase.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiRptBankReport.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiRptBankTransfer.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiTrnJurnal_PV_List_ST.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiMstBank.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiMstSettingSlip.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiTrnCirculationVoucher.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.uiTrnVoid.resources
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.vbproj.GenerateResource.Cache
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\RdlCompile.cache
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\RdlCompile.compiled
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\bin\Release\ACT_FINANCE.dll
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\bin\Release\ACT_FINANCE.pdb
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\bin\Release\ACT_FINANCE.xml
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\bin\Release\FlatTabControl.dll
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.dll
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.xml
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Release\ACT_FINANCE.pdb
+C:\Working Ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\working ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\working ary\datas\jobs\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.DlgProses.resources
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.pdb
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.xml
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\bin\Debug\FlatTabControl.dll
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ResolveAssemblyReference.cache
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG_Post.rdlc
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek_Post.rdlc
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Post_Header.rdlc
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual_Post.rdlc
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG_Post.rdlc
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek_Post.rdlc
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Post_Header.rdlc
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Header.rdlc
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP_Post.rdlc
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG_Post.rdlc
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek_Post.rdlc
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance_Post.rdlc
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Post_Header.rdlc
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucher.rdlc
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucherDetil.rdlc
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_Detil.rdlc
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Header.rdlc
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Header.rdlc
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG.rdlc
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek.rdlc
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Detil.rdlc
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance.rdlc
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP.rdlc
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual.rdlc
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG.rdlc
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek.rdlc
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG.rdlc
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek.rdlc
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.RptVoid.rdlc
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgAccount.resources
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContact.resources
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContractChoice.resources
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.DlgProses.resources
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgQueryBuilder.resources
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal.resources
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV.resources
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptVoid.resources
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch.resources
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_VQ.resources
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Resources.resources
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase.resources
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankReport.resources
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankTransfer.resources
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_ST.resources
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstBank.resources
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstSettingSlip.resources
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnCirculationVoucher.resources
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnVoid.resources
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbproj.GenerateResource.Cache
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.cache
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.compiled
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.xml
+C:\Work\Bongkar\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.pdb
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG_Post.rdlc
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek_Post.rdlc
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Post_Header.rdlc
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual_Post.rdlc
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG_Post.rdlc
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek_Post.rdlc
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Post_Header.rdlc
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_ListAP_Header.rdlc
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP_Post.rdlc
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG_Post.rdlc
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek_Post.rdlc
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance_Post.rdlc
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Post_Header.rdlc
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucher.rdlc
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptCirculationVoucherDetil.rdlc
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_Detil.rdlc
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Advance_Header.rdlc
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptJurnal_PV_Manual_Header.rdlc
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_BG.rdlc
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Advance_Cek.rdlc
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Detil.rdlc
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAdvance.rdlc
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderListAP.rdlc
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_HeaderManual.rdlc
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_BG.rdlc
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_ListAP_Cek.rdlc
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_BG.rdlc
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.rptPV_Manual_Cek.rdlc
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.RptVoid.rdlc
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_AdvanceOrder.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgAccount.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContact.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContractChoice.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.DlgProses.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgQueryBuilder.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptVoid.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_VQ.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Resources.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankReport.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankTransfer.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_ST.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstBank.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstSettingSlip.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnCirculationVoucher.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnVoid.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbproj.GenerateResource.Cache
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.cache
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.compiled
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.xml
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.pdb
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll
+D:\Work\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.pdb
+D:\Work\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.xml
+D:\Work\ACT_FINANCE\ACT_FINANCE\bin\Debug\FlatTabControl.dll
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_AdvanceOrder.resources

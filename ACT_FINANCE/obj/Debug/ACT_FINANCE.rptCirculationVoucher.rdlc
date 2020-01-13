@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2005/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <DataSources>
+    <DataSource Name="DummyDataSource">
+      <rd:DataSourceID>8a9a8ce0-4f8e-4b70-9def-303002ecf2ec</rd:DataSourceID>
+      <ConnectionProperties>
+        <DataProvider>SQL</DataProvider>
+        <ConnectString />
+      </ConnectionProperties>
+    </DataSource>
+  </DataSources>
+  <InteractiveHeight>11in</InteractiveHeight>
+  <ReportParameters>
+    <ReportParameter Name="imageURL">
+      <DataType>String</DataType>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>imageURL</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="channelID">
+      <DataType>String</DataType>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>channelID</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="channelName">
+      <DataType>String</DataType>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>channelName</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="channelAddress">
+      <DataType>String</DataType>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>channelAddress</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="circulation_id">
+      <DataType>String</DataType>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>circulation_id</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="circulation_date">
+      <DataType>String</DataType>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>circulation_date</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="revisi">
+      <DataType>String</DataType>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>revisi</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="descr">
+      <DataType>String</DataType>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>descr</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="total_amount">
+      <DataType>String</DataType>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>total_amount</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="total_foreign">
+      <DataType>String</DataType>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>total_foreign</Prompt>
+    </ReportParameter>
+  </ReportParameters>
+  <rd:DrawGrid>true</rd:DrawGrid>
+  <InteractiveWidth>8.5in</InteractiveWidth>
+  <rd:SnapToGrid>true</rd:SnapToGrid>
+  <RightMargin>0.12in</RightMargin>
+  <LeftMargin>0.12in</LeftMargin>
+  <PageHeader>
+    <PrintOnFirstPage>true</PrintOnFirstPage>
+    <ReportItems>
+      <Textbox Name="textbox5">
+        <Top>0.99375in</Top>
+        <Width>6.875in</Width>
+        <Style>
+          <FontSize>9pt</FontSize>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>15</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>0.75in</Left>
+        <Height>0.2in</Height>
+        <Value>=Parameters!descr.Value</Value>
+      </Textbox>
+      <Textbox Name="textbox3">
+        <Top>3.1746cm</Top>
+        <Width>2.22222cm</Width>
+        <Style>
+          <BackgroundColor>Gainsboro</BackgroundColor>
+          <FontSize>8pt</FontSize>
+          <FontWeight>700</FontWeight>
+          <TextAlign>Right</TextAlign>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>14</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>16.9535cm</Left>
+        <Value>Valas</Value>
+      </Textbox>
+      <Textbox Name="textbox17">
+        <Top>3.1746cm</Top>
+        <Width>2.85714cm</Width>
+        <Style>
+          <BackgroundColor>Gainsboro</BackgroundColor>
+          <FontSize>8pt</FontSize>
+          <FontWeight>700</FontWeight>
+          <TextAlign>Right</TextAlign>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>13</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>14.09636cm</Left>
+        <Value>Total</Value>
+      </Textbox>
+      <Textbox Name="textbox16">
+        <Top>3.1746cm</Top>
+        <Width>2.53968cm</Width>
+        <Style>
+          <BackgroundColor>Gainsboro</BackgroundColor>
+          <FontSize>8pt</FontSize>
+          <FontWeight>700</FontWeight>
+          <TextAlign>Right</TextAlign>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>12</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>11.55668cm</Left>
+        <Value>PR</Value>
+      </Textbox>
+      <Textbox Name="textbox15">
+        <Top>3.1746cm</Top>
+        <Width>0.87302cm</Width>
+        <Style>
+          <BackgroundColor>Gainsboro</BackgroundColor>
+          <FontSize>8pt</FontSize>
+          <FontWeight>700</FontWeight>
+          <TextAlign>Center</TextAlign>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>11</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>10.68366cm</Left>
+        <Value>Curr</Value>
+      </Textbox>
+      <Textbox Name="textbox14">
+        <Top>3.1746cm</Top>
+        <Width>1.47731cm</Width>
+        <Style>
+          <BackgroundColor>Gainsboro</BackgroundColor>
+          <FontSize>8pt</FontSize>
+          <FontWeight>700</FontWeight>
+          <TextAlign>Left</TextAlign>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>10</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>9.20635cm</Left>
+        <Value>Type</Value>
+      </Textbox>
+      <Textbox Name="textbox13">
+        <Top>3.1746cm</Top>
+        <Width>5.07937cm</Width>
+        <Style>
+          <BackgroundColor>Gainsboro</BackgroundColor>
+          <FontSize>8pt</FontSize>
+          <FontWeight>700</FontWeight>
+          <TextAlign>Left</TextAlign>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>9</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>4.12698cm</Left>
+        <Value>Descr</Value>
+      </Textbox>
+      <Textbox Name="textbox12">
+        <Top>3.1746cm</Top>
+        <Width>2.22222cm</Width>
+        <Style>
+          <BackgroundColor>Gainsboro</BackgroundColor>
+          <FontSize>8pt</FontSize>
+          <FontWeight>700</FontWeight>
+          <TextAlign>Left</TextAlign>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>8</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>1.90476cm</Left>
+        <Value>Ref</Value>
+      </Textbox>
+      <Textbox Name="textbox11">
+        <Top>3.1746cm</Top>
+        <Width>1.5873cm</Width>
+        <Style>
+          <BackgroundColor>Gainsboro</BackgroundColor>
+          <FontSize>8pt</FontSize>
+          <FontWeight>700</FontWeight>
+          <TextAlign>Left</TextAlign>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>7</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>0.125in</Left>
+        <Value>Bilyet</Value>
+      </Textbox>
+      <Textbox Name="textbox10">
+        <rd:DefaultName>textbox10</rd:DefaultName>
+        <Visibility>
+          <Hidden>=IIF(LEFT(Parameters!revisi.Value,3) = "NEW" , TRUE, FALSE)</Hidden>
+        </Visibility>
+        <Width>2.75in</Width>
+        <Style>
+          <Color>Silver</Color>
+          <FontSize>20pt</FontSize>
+          <TextAlign>Right</TextAlign>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>6</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>4.875in</Left>
+        <Height>0.375in</Height>
+        <Value>=Parameters!revisi.Value</Value>
+      </Textbox>
+      <Textbox Name="textbox2">
+        <Top>0.59532in</Top>
+        <Width>1.625in</Width>
+        <Style>
+          <FontSize>9pt</FontSize>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>5</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>2.75in</Left>
+        <Height>0.2in</Height>
+        <Value>Dir Keu &amp; SDM Approval</Value>
+      </Textbox>
+      <Textbox Name="textbox1">
+        <Top>0.79375in</Top>
+        <Width>3.60156in</Width>
+        <Style>
+          <FontSize>9pt</FontSize>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>4</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>0.75in</Left>
+        <Height>0.2in</Height>
+        <Value>=Parameters!circulation_id.Value &amp; "   " &amp; Parameters!circulation_date.Value</Value>
+      </Textbox>
+      <Textbox Name="textbox4">
+        <rd:DefaultName>textbox4</rd:DefaultName>
+        <Top>0.59532in</Top>
+        <Width>2in</Width>
+        <Style>
+          <FontStyle>Italic</FontStyle>
+          <FontWeight>700</FontWeight>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>3</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>0.75in</Left>
+        <Height>0.2in</Height>
+        <Value>PAYMENT APPROVAL </Value>
+      </Textbox>
+      <Textbox Name="textbox37">
+        <Top>0.125in</Top>
+        <Width>3.625in</Width>
+        <Style>
+          <FontSize>12pt</FontSize>
+          <FontWeight>700</FontWeight>
+          <VerticalAlign>Bottom</VerticalAlign>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+        </Style>
+        <ZIndex>2</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>0.75in</Left>
+        <Height>0.19688in</Height>
+        <Value>=Parameters!channelName.Value</Value>
+      </Textbox>
+      <Textbox Name="textbox38">
+        <Top>0.32188in</Top>
+        <Width>3.625in</Width>
+        <Style>
+          <BorderColor>
+            <Default>Gray</Default>
+          </BorderColor>
+          <FontSize>8pt</FontSize>
+          <Format>dd/MM/yyyy</Format>
+          <PaddingLeft>2pt</PaddingLeft>
+        </Style>
+        <ZIndex>1</ZIndex>
+        <Left>0.75in</Left>
+        <Height>0.27344in</Height>
+        <Value>=Parameters!channelAddress.Value</Value>
+      </Textbox>
+      <Image Name="image2">
+        <Sizing>FitProportional</Sizing>
+        <Top>0.12109in</Top>
+        <Width>0.52656in</Width>
+        <MIMEType>image/gif</MIMEType>
+        <Source>External</Source>
+        <Style />
+        <Left>0.16667in</Left>
+        <Height>0.5in</Height>
+        <Value>=Parameters!imageURL.Value</Value>
+      </Image>
+    </ReportItems>
+    <Height>1.44687in</Height>
+    <PrintOnLastPage>true</PrintOnLastPage>
+  </PageHeader>
+  <BottomMargin>0.5in</BottomMargin>
+  <rd:ReportID>b50c3ae1-c725-45d6-99d9-6c4916006691</rd:ReportID>
+  <PageWidth>8.27in</PageWidth>
+  <DataSets>
+    <DataSet Name="ACT_FINANCE_DataSource_clsRptCirculationVoucher">
+      <Fields>
+        <Field Name="channel_address">
+          <DataField>channel_address</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="channel_id">
+          <DataField>channel_id</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="channel_namereport">
+          <DataField>channel_namereport</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="circulation_amount">
+          <DataField>circulation_amount</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="circulation_appuser">
+          <DataField>circulation_appuser</DataField>
+          <rd:TypeName>System.Byte</rd:TypeName>
+        </Field>
+        <Field Name="circulation_appuserby">
+          <DataField>circulation_appuserby</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="circulation_appuserdt">
+          <DataField>circulation_appuserdt</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="circulation_descr">
+          <DataField>circulation_descr</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="circulation_foreign">
+          <DataField>circulation_foreign</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="circulation_id">
+          <DataField>circulation_id</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="circulation_senddt">
+          <DataField>circulation_senddt</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="circulation_sendto">
+          <DataField>circulation_sendto</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="circulation_status">
+          <DataField>circulation_status</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="circulation_totalrevisi">
+          <DataField>circulation_totalrevisi</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="entry_by">
+          <DataField>entry_by</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="entry_dt">
+          <DataField>entry_dt</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="jurnaltype_id">
+          <DataField>jurnaltype_id</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="modify_by">
+          <DataField>modify_by</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="modify_dt">
+          <DataField>modify_dt</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>DummyDataSource</DataSourceName>
+        <CommandText />
+        <rd:UseGenericDesigner>true</rd:UseGenericDesigner>
+      </Query>
+      <rd:DataSetInfo>
+        <rd:DataSetName>ACT_FINANCE.DataSource</rd:DataSetName>
+        <rd:TableName>clsRptCirculationVoucher</rd:TableName>
+        <rd:ObjectDataSourceType>ACT_FINANCE.DataSource.clsRptCirculationVoucher, ACT_FINANCE, Version=1.0.4023.40752, Culture=neutral, PublicKeyToken=null</rd:ObjectDataSourceType>
+      </rd:DataSetInfo>
+    </DataSet>
+  </DataSets>
+  <Code />
+  <Width>7.68099in</Width>
+  <Body>
+    <ReportItems>
+      <Line Name="line4">
+        <Top>3.80952cm</Top>
+        <Width>1.375in</Width>
+        <Style>
+          <BorderStyle>
+            <Default>Solid</Default>
+          </BorderStyle>
+        </Style>
+        <ZIndex>8</ZIndex>
+        <Left>15.55556cm</Left>
+        <Height>0cm</Height>
+      </Line>
+      <Textbox Name="textbox9">
+        <Top>1.26984cm</Top>
+        <Width>2.53969cm</Width>
+        <Style>
+          <FontSize>8pt</FontSize>
+          <TextAlign>Left</TextAlign>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>7</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>15.55556cm</Left>
+        <Height>0.5cm</Height>
+        <Value>Approval by</Value>
+      </Textbox>
+      <Line Name="line1">
+        <Top>3.72882cm</Top>
+        <Width>1.375in</Width>
+        <Style>
+          <BorderStyle>
+            <Default>Solid</Default>
+          </BorderStyle>
+        </Style>
+        <ZIndex>6</ZIndex>
+        <Left>10.47619cm</Left>
+        <Height>0cm</Height>
+      </Line>
+      <Textbox Name="textbox8">
+        <Top>1.26984cm</Top>
+        <Width>2.53969cm</Width>
+        <Style>
+          <FontSize>8pt</FontSize>
+          <TextAlign>Left</TextAlign>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>5</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>10.47619cm</Left>
+        <Height>0.5cm</Height>
+        <Value>Approval by</Value>
+      </Textbox>
+      <Line Name="line3">
+        <Top>3.72882cm</Top>
+        <Width>3.49206cm</Width>
+        <Style>
+          <BorderStyle>
+            <Default>Solid</Default>
+          </BorderStyle>
+        </Style>
+        <ZIndex>4</ZIndex>
+        <Left>5.39683cm</Left>
+        <Height>0cm</Height>
+      </Line>
+      <Textbox Name="textbox21">
+        <Top>1.28768cm</Top>
+        <Width>2.41205cm</Width>
+        <Style>
+          <FontSize>8pt</FontSize>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>3</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>5.39683cm</Left>
+        <Height>0.5cm</Height>
+        <Value>Propose  by</Value>
+      </Textbox>
+      <Line Name="line2">
+        <Top>3.72882cm</Top>
+        <Width>3.49206cm</Width>
+        <Style>
+          <BorderStyle>
+            <Default>Solid</Default>
+          </BorderStyle>
+        </Style>
+        <ZIndex>2</ZIndex>
+        <Left>0.31746cm</Left>
+        <Height>0cm</Height>
+      </Line>
+      <Textbox Name="textbox20">
+        <Top>1.39352cm</Top>
+        <Width>2.12632cm</Width>
+        <Style>
+          <FontSize>8pt</FontSize>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>1</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>0.31746cm</Left>
+        <Height>0.5cm</Height>
+        <Value>Prepared by</Value>
+      </Textbox>
+      <Subreport Name="subreport1">
+        <Parameters>
+          <Parameter Name="circulation_id">
+            <Value>=Fields!circulation_id.Value</Value>
+          </Parameter>
+          <Parameter Name="total_amount">
+            <Value>=Parameters!total_amount.Value</Value>
+          </Parameter>
+          <Parameter Name="total_foreign">
+            <Value>=Parameters!total_foreign.Value</Value>
+          </Parameter>
+        </Parameters>
+        <Top>0.09323in</Top>
+        <ReportName>ACT_FINANCE.rptCirculationVoucherDetil.rdlc</ReportName>
+        <Width>7.42544in</Width>
+        <Left>0.125in</Left>
+        <Height>0.19478in</Height>
+      </Subreport>
+    </ReportItems>
+    <Height>1.75in</Height>
+  </Body>
+  <Language>en-US</Language>
+  <TopMargin>0.5in</TopMargin>
+  <PageHeight>11.69in</PageHeight>
+</Report>

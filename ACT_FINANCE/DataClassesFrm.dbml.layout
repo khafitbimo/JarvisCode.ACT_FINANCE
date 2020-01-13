@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 9.375" name="DataClassesFrm">
+  <DataContextMoniker Name="/DataClassesFrmDataContext" />
+  <nestedChildShapes>
+    <classShape Id="b628b16a-696d-4c9b-a8ee-3debf683bd2e" isExpanded="false" absoluteBounds="0.5, 0.5, 2.875, 0.45">
+      <DataClassMoniker Name="/DataClassesFrmDataContext/transaksi_advancedisbursement" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6f05feda-2617-4d5f-b1c1-4d5313b2765d" absoluteBounds="0.515, 0.96, 2.8449999999999998, 3.7108154296875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a1312c60-361d-4c2f-998c-cb122012b00b" isExpanded="false" absoluteBounds="0.625, 1.25, 2, 0.45">
+      <DataClassMoniker Name="/DataClassesFrmDataContext/transaksi_advance" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ca4718a0-e51a-4e53-996a-6de8861a1775" absoluteBounds="0.64, 1.71, 1.9700000000000002, 8.5183512369791661" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b6677202-e785-4f59-8a48-ef9569efac2b" isExpanded="false" absoluteBounds="0.5, 1.875, 2.875, 0.45">
+      <DataClassMoniker Name="/DataClassesFrmDataContext/transaksi_advancedisbursementlog" />
+      <nestedChildShapes>
+        <elementListCompartment Id="10c6c371-c6a7-4249-862b-a91c4b1da967" absoluteBounds="0.515, 2.335, 2.8449999999999998, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a0b18aff-96b1-4db4-af6f-9cb4c7faca06" absoluteBounds="0.5, 3.125, 2.875, 6.0015283203125">
+      <DataClassMoniker Name="/DataClassesFrmDataContext/view_transaksi_advancedisbursement" />
+      <nestedChildShapes>
+        <elementListCompartment Id="96005578-e56a-414c-9613-92a304a6ee65" absoluteBounds="0.515, 3.585, 2.8449999999999998, 5.4415283203125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d6c0402b-e0e3-4017-b367-7128778ed5f4" absoluteBounds="3.75, 3.875, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/DataClassesFrmDataContext/master_channel" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cdb5307f-8997-4f00-aa35-442f9b9ef94c" absoluteBounds="3.765, 4.335, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="362454c8-6f80-4193-8ec3-349b6c96d312" absoluteBounds="0.5, 3.125, 2, 1.3862939453125">
+      <DataClassMoniker Name="/DataClassesFrmDataContext/master_userchannel" />
+      <nestedChildShapes>
+        <elementListCompartment Id="98b8a1e1-515c-4071-ac6a-0df477a42095" absoluteBounds="0.515, 3.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="24df4b6f-c255-41e4-8181-f34b2252bcbb" absoluteBounds="5.375, 0.625, 2, 5.6169254557291657">
+      <DataClassMoniker Name="/DataClassesFrmDataContext/master_rekanan" />
+      <nestedChildShapes>
+        <elementListCompartment Id="70ece15d-5168-43b8-a599-fccf5b4b13f2" absoluteBounds="5.39, 1.085, 1.9700000000000002, 5.0569254557291661" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7ea6af8f-46ce-4c74-b3cc-2968f12c82b7" absoluteBounds="0.5, 3, 2, 1.9631982421875">
+      <DataClassMoniker Name="/DataClassesFrmDataContext/master_prodtype" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e3aaa112-7c4a-43a9-9431-883bc5488861" absoluteBounds="0.515, 3.46, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="99eabfbb-761e-48f3-8b51-6a9f0dfa8f13" absoluteBounds="0.5, 2.625, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/DataClassesFrmDataContext/view_transaksi_advancedisbursementadvanceentryby" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d72702cc-c5b1-441c-ab27-99aef0136048" absoluteBounds="0.515, 3.085, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="E_FRM" Class="DataClassesFrmDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=d3330-kokohs;Initial Catalog=E_FRM;Integrated Security=True" SettingsObjectName="ACT_FINANCE.My.MySettings" SettingsPropertyName="E_FRMConnectionString3" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.transaksi_advancedisbursement" Member="transaksi_advancedisbursements">
+    <Type Name="transaksi_advancedisbursement">
+      <Column Name="channel_id" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="advancedisbursement_id" Type="System.String" DbType="NVarChar(12) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="circulationvoucher_id" Type="System.String" DbType="NVarChar(12)" CanBeNull="true" />
+      <Column Name="circulationvoucherdetil_line" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="pv_id" Type="System.String" DbType="NVarChar(12)" CanBeNull="true" />
+      <Column Name="advancedisbursement_date" Type="System.DateTime" DbType="SmallDateTime" CanBeNull="true" />
+      <Column Name="advancedisbursement_notes" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="advancedisbursement_isdisabled" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="advancedisbursement_disabledby" Type="System.String" DbType="NVarChar(16)" CanBeNull="true" />
+      <Column Name="advancedisbursement_disableddate" Type="System.DateTime" DbType="SmallDateTime" CanBeNull="true" />
+      <Column Name="bma_app" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="bma_appby" Type="System.String" DbType="NVarChar(16)" CanBeNull="true" />
+      <Column Name="bma_appdt" Type="System.DateTime" DbType="SmallDateTime" CanBeNull="true" />
+      <Column Name="fin_app" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="fin_appby" Type="System.String" DbType="NVarChar(16)" CanBeNull="true" />
+      <Column Name="fin_appdt" Type="System.DateTime" DbType="SmallDateTime" CanBeNull="true" />
+      <Column Name="create_by" Type="System.String" DbType="NVarChar(16)" CanBeNull="true" />
+      <Column Name="create_dt" Type="System.DateTime" DbType="SmallDateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.transaksi_advance" Member="transaksi_advances">
+    <Type Name="transaksi_advance">
+      <Column Name="advance_id" Type="System.String" DbType="NVarChar(15) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="advance_descr" Type="System.String" DbType="NVarChar(2000)" CanBeNull="true" />
+      <Column Name="advance_usedby" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="advance_modifieddt" Type="System.DateTime" DbType="SmallDateTime" CanBeNull="true" />
+      <Column Name="advance_modifiedby" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="strukturunit_id_dest" Type="System.Decimal" DbType="Decimal(6,0)" CanBeNull="true" />
+      <Column Name="budget_id" Type="System.Decimal" DbType="Decimal(8,0)" CanBeNull="true" />
+      <Column Name="advance_prepareby" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="advance_prepareloc" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="advance_preparedt" Type="System.DateTime" DbType="SmallDateTime" CanBeNull="true" />
+      <Column Name="advance_userpic" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="source_id" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="type_id" Type="System.String" DbType="NVarChar(2)" CanBeNull="true" />
+      <Column Name="channel_id" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="strukturunit_id" Type="System.Decimal" DbType="Decimal(6,0)" CanBeNull="true" />
+      <Column Name="rekanan_id" Type="System.Decimal" DbType="Decimal(8,0)" CanBeNull="true" />
+      <Column Name="currency_id" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="advance_foreignrate" Type="System.Decimal" DbType="Decimal(18,3)" CanBeNull="true" />
+      <Column Name="advance_entrydt" Type="System.DateTime" DbType="SmallDateTime" CanBeNull="true" />
+      <Column Name="advance_entryby" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="advance_foreignreal" Type="System.Decimal" DbType="Decimal(18,3)" CanBeNull="true" />
+      <Column Name="advance_ordered" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="advance_programtype" Type="System.String" DbType="NVarChar(2)" CanBeNull="true" />
+      <Column Name="advance_epsstart" Type="System.Decimal" DbType="Decimal(4,0)" CanBeNull="true" />
+      <Column Name="advance_epsend" Type="System.Decimal" DbType="Decimal(4,0)" CanBeNull="true" />
+      <Column Name="advance_approved1" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="advance_approved1dt" Type="System.DateTime" DbType="SmallDateTime" CanBeNull="true" />
+      <Column Name="advance_approved1by" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="advance_approved2" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="advance_approved2dt" Type="System.DateTime" DbType="SmallDateTime" CanBeNull="true" />
+      <Column Name="advance_approved2by" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="advance_canceled" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="advance_reference" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="advance_type" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="advance_pathfile" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="receivedDoc_by" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="receivedDoc_date" Type="System.DateTime" DbType="SmallDateTime" CanBeNull="true" />
+      <Column Name="receivedDoc_app" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="amount_itemdetil" Type="System.Decimal" DbType="Decimal(18,3)" CanBeNull="true" />
+      <Column Name="advance_idrreal" Type="System.Decimal" DbType="Decimal(18,3)" CanBeNull="true" />
+      <Column Name="advance_idrrealuser" Type="System.Decimal" DbType="Decimal(18,3)" CanBeNull="true" />
+      <Column Name="advance_subtotal" Type="System.Decimal" DbType="Decimal(18,3)" CanBeNull="true" />
+      <Column Name="advance_singlebudget" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.transaksi_advancedisbursementlog" Member="transaksi_advancedisbursementlogs">
+    <Type Name="transaksi_advancedisbursementlog">
+      <Column Name="log_id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="advancedisbursement_id" Type="System.String" DbType="NVarChar(12)" CanBeNull="true" />
+      <Column Name="log_userby" Type="System.String" DbType="NVarChar(16)" CanBeNull="true" />
+      <Column Name="log_userdt" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="log_event" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="log_descr" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.view_transaksi_advancedisbursement" Member="view_transaksi_advancedisbursements">
+    <Type Name="view_transaksi_advancedisbursement" Id="ID1">
+      <Column Name="channel_id" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="advancedisbursement_id" Type="System.String" DbType="NVarChar(12) NOT NULL" CanBeNull="false" />
+      <Column Name="circulationvoucher_id" Type="System.String" DbType="NVarChar(12)" CanBeNull="true" />
+      <Column Name="circulationvoucherdetil_line" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="pv_id" Type="System.String" DbType="NVarChar(12)" CanBeNull="true" />
+      <Column Name="advancedisbursement_date" Type="System.DateTime" DbType="SmallDateTime" CanBeNull="true" />
+      <Column Name="advancedisbursement_notes" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="advancedisbursement_isdisabled" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="advancedisbursement_disabledby" Type="System.String" DbType="NVarChar(16)" CanBeNull="true" />
+      <Column Name="advancedisbursement_disableddate" Type="System.DateTime" DbType="SmallDateTime" CanBeNull="true" />
+      <Column Name="bma_app" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="bma_appby" Type="System.String" DbType="NVarChar(16)" CanBeNull="true" />
+      <Column Name="bma_appdt" Type="System.DateTime" DbType="SmallDateTime" CanBeNull="true" />
+      <Column Name="fin_app" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="fin_appby" Type="System.String" DbType="NVarChar(16)" CanBeNull="true" />
+      <Column Name="fin_appdt" Type="System.DateTime" DbType="SmallDateTime" CanBeNull="true" />
+      <Column Name="create_by" Type="System.String" DbType="NVarChar(16)" CanBeNull="true" />
+      <Column Name="create_dt" Type="System.DateTime" DbType="SmallDateTime" CanBeNull="true" />
+      <Column Name="pv_descr" Type="System.String" DbType="NVarChar(2000)" CanBeNull="true" />
+      <Column Name="bma_appname" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="bma_appbyfullname" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="bma_ok" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="bma_pending" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="fin_appbyfullname" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="rekanan_id" Type="System.Decimal" DbType="Decimal(8,0)" CanBeNull="true" />
+      <Column Name="rekanan_name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="circulationdetil_amount" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.master_channel" Member="master_channels">
+    <Type Name="master_channel">
+      <Column Name="channel_id" Type="System.String" DbType="NVarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="channel_name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="channel_number" Type="System.String" DbType="Char(2)" CanBeNull="true" />
+      <Column Name="channel_namereport" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="channel_address" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="channel_telp1" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="channel_telp2" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="channel_telp3" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="channel_fax" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="channel_defrex" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="channel_isdisabled" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="channel_domainname" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="rekanan_id" Type="System.Decimal" DbType="Decimal(8,0)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.master_userchannel" Member="master_userchannels">
+    <Type Name="master_userchannel">
+      <Column Name="username" Type="System.String" DbType="NVarChar(16) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="channel_id" Type="System.String" DbType="NVarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="userchannel_default" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.master_rekanan" Member="master_rekanans">
+    <Type Name="master_rekanan">
+      <Column Name="rekanan_id" Type="System.Decimal" DbType="Decimal(8,0) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="rekanan_name" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="rekanan_badanhukum" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="rekanan_namereport" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="rekanantype_id" Type="System.Decimal" DbType="Decimal(3,0) NOT NULL" CanBeNull="false" />
+      <Column Name="rekanan_Addr1" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="rekanan_Addr2" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="rekanan_city" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="rekanan_telp" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="rekanan_fax" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="rekanan_email" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="rekanan_NPWP" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="rekanan_Create_by" Type="System.String" DbType="NVarChar(16)" CanBeNull="true" />
+      <Column Name="rekanan_Create_dt" Type="System.DateTime" DbType="SmallDateTime" CanBeNull="true" />
+      <Column Name="rekanan_active" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="rekanan_Bill" Type="System.Decimal" DbType="Decimal(4,0)" CanBeNull="true" />
+      <Column Name="rekanan_taxprefix" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="rekanan_pkpname" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="rekanan_salesperson" Type="System.Decimal" DbType="Decimal(5,0)" CanBeNull="true" />
+      <Column Name="rekanan_trf" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="rekanan_invsign" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="rekanan_invsignpos" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="rekanan_taxsign" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="rekanan_taxsignpos" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="channel_id" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.master_prodtype" Member="master_prodtypes">
+    <Type Name="master_prodtype">
+      <Column Name="prodtype_id" Type="System.Decimal" DbType="Decimal(4,0) NOT NULL" CanBeNull="false" />
+      <Column Name="prodtype_name" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="prodtype_nameshort" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="prodtype_isactive" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="prodtype_entry_by" Type="System.Decimal" DbType="Decimal(4,0)" CanBeNull="true" />
+      <Column Name="prodtype_entry_dt" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.view_transaksi_advancedisbursementadvanceentryby" Member="view_transaksi_advancedisbursementadvanceentrybies">
+    <Type Name="view_transaksi_advancedisbursementadvanceentryby">
+      <Column Name="advancedisbursement_id" Type="System.String" DbType="NVarChar(12) NOT NULL" CanBeNull="false" />
+      <Column Name="advance_id" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="budget_id" Type="System.Decimal" DbType="Decimal(8,0)" CanBeNull="true" />
+      <Column Name="prodtype_id" Type="System.Decimal" DbType="Decimal(2,0)" CanBeNull="true" />
+      <Column Name="advance_entryby" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Function Name="dbo.act_TrnAdvanceDisbursement_FinApprove" Method="act_TrnAdvanceDisbursement_FinApprove">
+    <Parameter Name="advancedisbursement_id" Type="System.String" DbType="NVarChar(12)" />
+    <Parameter Name="fin_app" Type="System.Byte" DbType="TinyInt" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.act_TrnAdvanceDisbursement_BMAApprove" Method="act_TrnAdvanceDisbursement_BMAApprove">
+    <Parameter Name="advancedisbursement_id" Type="System.String" DbType="NVarChar(12)" />
+    <Parameter Name="bma_app" Type="System.Byte" DbType="TinyInt" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.act_TrnAdvanceDisbursement_UpdateDate" Method="act_TrnAdvanceDisbursement_UpdateDate">
+    <Parameter Name="advancedisbursement_id" Type="System.String" DbType="NVarChar(12)" />
+    <Parameter Name="advancedisbursement_date" Type="System.DateTime" DbType="SmallDateTime" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.act_TrnAdvanceDisbursement_UserSelect" Method="act_TrnAdvanceDisbursement_UserSelect">
+    <Parameter Name="channel_id" Type="System.String" DbType="NVarChar(10)" />
+    <Parameter Name="username" Type="System.String" DbType="NVarChar(16)" />
+    <ElementType IdRef="ID1" />
+  </Function>
+  <Function Name="dbo.f_AdvanceDisbursement_CheckMaxPVAmount" Method="f_AdvanceDisbursement_CheckMaxPVAmount" IsComposable="true">
+    <Parameter Name="pv_id" Type="System.String" DbType="NVarChar(12)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.act_TrnCirculationvoucherdetil_CheckRekananEmail" Method="act_TrnCirculationvoucherdetil_CheckRekananEmail">
+    <Parameter Name="circulation_id" Type="System.String" DbType="NVarChar(12)" />
+    <Parameter Name="circulationdetil_line" Type="System.Int32" DbType="Int" />
+    <Parameter Name="rekanan_id" Type="System.Decimal" DbType="Decimal(8,0)" Direction="InOut" />
+    <Parameter Name="rekanan_name" Type="System.String" DbType="NVarChar(50)" Direction="InOut" />
+    <Parameter Name="result" Type="System.Byte" DbType="TinyInt" Direction="InOut" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.act_TrnAdvanceDisbursement_AdvanceSelect" Method="act_TrnAdvanceDisbursement_AdvanceSelect">
+    <Parameter Name="advancedisbursement_id" Type="System.String" DbType="NVarChar(12)" />
+    <ElementType Name="act_TrnAdvanceDisbursement_AdvanceSelectResult">
+      <Column Name="advance_id" Type="System.String" DbType="NVarChar(15) NOT NULL" CanBeNull="false" />
+      <Column Name="advance_descr" Type="System.String" DbType="NVarChar(2000)" CanBeNull="true" />
+      <Column Name="advance_usedby" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="advance_modifieddt" Type="System.DateTime" DbType="SmallDateTime" CanBeNull="true" />
+      <Column Name="advance_modifiedby" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="strukturunit_id_dest" Type="System.Decimal" DbType="Decimal(6,0)" CanBeNull="true" />
+      <Column Name="budget_id" Type="System.Decimal" DbType="Decimal(8,0)" CanBeNull="true" />
+      <Column Name="advance_prepareby" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="advance_prepareloc" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="advance_preparedt" Type="System.DateTime" DbType="SmallDateTime" CanBeNull="true" />
+      <Column Name="advance_userpic" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="source_id" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="type_id" Type="System.String" DbType="NVarChar(2)" CanBeNull="true" />
+      <Column Name="channel_id" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="strukturunit_id" Type="System.Decimal" DbType="Decimal(6,0)" CanBeNull="true" />
+      <Column Name="rekanan_id" Type="System.Decimal" DbType="Decimal(8,0)" CanBeNull="true" />
+      <Column Name="currency_id" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="advance_foreignrate" Type="System.Decimal" DbType="Decimal(18,3)" CanBeNull="true" />
+      <Column Name="advance_entrydt" Type="System.DateTime" DbType="SmallDateTime" CanBeNull="true" />
+      <Column Name="advance_entryby" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="advance_foreignreal" Type="System.Decimal" DbType="Decimal(18,3)" CanBeNull="true" />
+      <Column Name="advance_ordered" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="advance_programtype" Type="System.String" DbType="NVarChar(2)" CanBeNull="true" />
+      <Column Name="advance_epsstart" Type="System.Decimal" DbType="Decimal(4,0)" CanBeNull="true" />
+      <Column Name="advance_epsend" Type="System.Decimal" DbType="Decimal(4,0)" CanBeNull="true" />
+      <Column Name="advance_approved1" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="advance_approved1dt" Type="System.DateTime" DbType="SmallDateTime" CanBeNull="true" />
+      <Column Name="advance_approved1by" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="advance_approved2" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="advance_approved2dt" Type="System.DateTime" DbType="SmallDateTime" CanBeNull="true" />
+      <Column Name="advance_approved2by" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="advance_canceled" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="advance_reference" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="advance_type" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="advance_pathfile" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="receivedDoc_by" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="receivedDoc_date" Type="System.DateTime" DbType="SmallDateTime" CanBeNull="true" />
+      <Column Name="receivedDoc_app" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="amount_itemdetil" Type="System.Decimal" DbType="Decimal(18,3)" CanBeNull="true" />
+      <Column Name="advance_idrreal" Type="System.Decimal" DbType="Decimal(18,3)" CanBeNull="true" />
+      <Column Name="advance_idrrealuser" Type="System.Decimal" DbType="Decimal(18,3)" CanBeNull="true" />
+      <Column Name="advance_subtotal" Type="System.Decimal" DbType="Decimal(18,3)" CanBeNull="true" />
+      <Column Name="advance_singlebudget" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="rekanan_name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="budget_name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+</Database>

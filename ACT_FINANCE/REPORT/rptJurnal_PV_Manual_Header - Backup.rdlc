@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2005/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <DataSources>
+    <DataSource Name="DummyDataSource">
+      <rd:DataSourceID>06110c40-83a7-4453-b48a-9455244caa62</rd:DataSourceID>
+      <ConnectionProperties>
+        <DataProvider>SQL</DataProvider>
+        <ConnectString />
+      </ConnectionProperties>
+    </DataSource>
+  </DataSources>
+  <InteractiveHeight>11in</InteractiveHeight>
+  <ReportParameters>
+    <ReportParameter Name="imageURL">
+      <DataType>String</DataType>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>imageURL</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="channel_name">
+      <DataType>String</DataType>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>channel_name</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="channel_address">
+      <DataType>String</DataType>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>channel_address</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="jurnal_id">
+      <DataType>String</DataType>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>jurnal_id</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="jurnaltype_id">
+      <DataType>String</DataType>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>jurnaltype_id</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="jurnal_source">
+      <DataType>String</DataType>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>jurnal_source</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="jurnal_bookdate">
+      <DataType>String</DataType>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>jurnal_bookdate</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="periode_name">
+      <DataType>String</DataType>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>periode_name</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="currency_name">
+      <DataType>String</DataType>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>currency_name</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="jurnal_amountforeign">
+      <DataType>String</DataType>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>jurnal_amountforeign</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="rekanan_name">
+      <DataType>String</DataType>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>rekanan_name</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="jurnal_descr">
+      <DataType>String</DataType>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>jurnal_descr</Prompt>
+    </ReportParameter>
+  </ReportParameters>
+  <rd:DrawGrid>true</rd:DrawGrid>
+  <InteractiveWidth>8.5in</InteractiveWidth>
+  <rd:SnapToGrid>true</rd:SnapToGrid>
+  <RightMargin>0.1in</RightMargin>
+  <LeftMargin>0.1in</LeftMargin>
+  <PageHeader>
+    <PrintOnFirstPage>true</PrintOnFirstPage>
+    <ReportItems>
+      <Rectangle Name="rectangle5">
+        <ZIndex>2</ZIndex>
+        <ReportItems>
+          <Textbox Name="textbox5">
+            <Top>0.525in</Top>
+            <Width>0.125in</Width>
+            <Style>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>20</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>2.85714cm</Left>
+            <Height>0.2in</Height>
+            <Value>:</Value>
+          </Textbox>
+          <Textbox Name="textbox6">
+            <Top>0.525in</Top>
+            <Width>1in</Width>
+            <Style>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>19</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>0.31746cm</Left>
+            <Height>0.2in</Height>
+            <Value>Description</Value>
+          </Textbox>
+          <Textbox Name="textbox7">
+            <Top>0.52498in</Top>
+            <Width>6.25in</Width>
+            <Style>
+              <BorderColor>
+                <Default>Silver</Default>
+              </BorderColor>
+              <BorderStyle>
+                <Bottom>Solid</Bottom>
+              </BorderStyle>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>18</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>3.1746cm</Left>
+            <Height>0.20002in</Height>
+            <Value>=Parameters!rekanan_name.Value &amp; " - " &amp; Parameters!jurnal_descr.Value</Value>
+          </Textbox>
+          <Textbox Name="textbox9">
+            <Top>0.325in</Top>
+            <Width>0.125in</Width>
+            <Style>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>17</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>15.55556cm</Left>
+            <Height>0.2in</Height>
+            <Value>:</Value>
+          </Textbox>
+          <Textbox Name="textbox10">
+            <Top>0.325in</Top>
+            <Width>1in</Width>
+            <Style>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>16</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>13.01588cm</Left>
+            <Height>0.2in</Height>
+            <Value>Amount</Value>
+          </Textbox>
+          <Textbox Name="textbox12">
+            <Top>0.32499in</Top>
+            <Width>1.25in</Width>
+            <Style>
+              <BorderColor>
+                <Default>Silver</Default>
+              </BorderColor>
+              <BorderStyle>
+                <Bottom>Solid</Bottom>
+              </BorderStyle>
+              <FontSize>8pt</FontSize>
+              <TextAlign>Left</TextAlign>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>15</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>15.87301cm</Left>
+            <Height>0.19999in</Height>
+            <Value>=Parameters!jurnal_amountforeign.Value</Value>
+          </Textbox>
+          <Textbox Name="textbox13">
+            <Top>0.125in</Top>
+            <Width>0.125in</Width>
+            <Style>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>14</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>15.55556cm</Left>
+            <Height>0.2in</Height>
+            <Value>:</Value>
+          </Textbox>
+          <Textbox Name="textbox14">
+            <Top>0.125in</Top>
+            <Width>1in</Width>
+            <Style>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>13</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>13.01588cm</Left>
+            <Height>0.2in</Height>
+            <Value>Currency</Value>
+          </Textbox>
+          <Textbox Name="textbox15">
+            <Top>0.125in</Top>
+            <Width>1.25in</Width>
+            <Style>
+              <BorderColor>
+                <Default>Silver</Default>
+              </BorderColor>
+              <BorderStyle>
+                <Bottom>Solid</Bottom>
+              </BorderStyle>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>12</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>15.87301cm</Left>
+            <Height>0.19999in</Height>
+            <Value>=Parameters!currency_name.Value</Value>
+          </Textbox>
+          <Textbox Name="textbox20">
+            <Top>0.325in</Top>
+            <Width>0.125in</Width>
+            <Style>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>11</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>8.88889cm</Left>
+            <Height>0.2in</Height>
+            <Value>:</Value>
+          </Textbox>
+          <Textbox Name="textbox21">
+            <Top>0.325in</Top>
+            <Width>1in</Width>
+            <Style>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>10</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>6.34921cm</Left>
+            <Height>0.2in</Height>
+            <Value>Periode</Value>
+          </Textbox>
+          <Textbox Name="textbox42">
+            <Top>0.32499in</Top>
+            <Width>1.25in</Width>
+            <Style>
+              <BorderColor>
+                <Default>Silver</Default>
+              </BorderColor>
+              <BorderStyle>
+                <Bottom>Solid</Bottom>
+              </BorderStyle>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>9</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>9.20635cm</Left>
+            <Height>0.19999in</Height>
+            <Value>=Parameters!periode_name.Value</Value>
+          </Textbox>
+          <Textbox Name="textbox43">
+            <Top>0.125in</Top>
+            <Width>0.125in</Width>
+            <Style>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>8</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>8.88889cm</Left>
+            <Height>0.2in</Height>
+            <Value>:</Value>
+          </Textbox>
+          <Textbox Name="textbox45">
+            <Top>0.125in</Top>
+            <Width>1in</Width>
+            <Style>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>7</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>6.34921cm</Left>
+            <Height>0.2in</Height>
+            <Value>Book Date</Value>
+          </Textbox>
+          <Textbox Name="textbox46">
+            <Top>0.125in</Top>
+            <Width>1.25in</Width>
+            <Style>
+              <BorderColor>
+                <Default>Silver</Default>
+              </BorderColor>
+              <BorderStyle>
+                <Bottom>Solid</Bottom>
+              </BorderStyle>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>6</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>9.20635cm</Left>
+            <Height>0.19999in</Height>
+            <Value>=Parameters!jurnal_bookdate.Value</Value>
+          </Textbox>
+          <Textbox Name="textbox47">
+            <Top>0.325in</Top>
+            <Width>0.125in</Width>
+            <Style>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>5</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>2.85714cm</Left>
+            <Height>0.2in</Height>
+            <Value>:</Value>
+          </Textbox>
+          <Textbox Name="textbox48">
+            <Top>0.325in</Top>
+            <Width>1in</Width>
+            <Style>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>4</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>0.31746cm</Left>
+            <Height>0.2in</Height>
+            <Value>Journal Source</Value>
+          </Textbox>
+          <Textbox Name="textbox49">
+            <Top>0.32499in</Top>
+            <Width>1in</Width>
+            <Style>
+              <BorderColor>
+                <Default>Silver</Default>
+              </BorderColor>
+              <BorderStyle>
+                <Bottom>Solid</Bottom>
+              </BorderStyle>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>3</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>3.1746cm</Left>
+            <Height>0.19999in</Height>
+            <Value>=Parameters!jurnal_source.Value</Value>
+          </Textbox>
+          <Textbox Name="textbox50">
+            <Top>0.125in</Top>
+            <Width>0.125in</Width>
+            <Style>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>2</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>2.85714cm</Left>
+            <Height>0.2in</Height>
+            <Value>:</Value>
+          </Textbox>
+          <Textbox Name="textbox51">
+            <Top>0.125in</Top>
+            <Width>1in</Width>
+            <Style>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>1</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>0.31746cm</Left>
+            <Height>0.2in</Height>
+            <Value>Journal Type</Value>
+          </Textbox>
+          <Textbox Name="textbox52">
+            <Top>0.125in</Top>
+            <Width>1in</Width>
+            <Style>
+              <BorderColor>
+                <Default>Silver</Default>
+              </BorderColor>
+              <BorderStyle>
+                <Bottom>Solid</Bottom>
+              </BorderStyle>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <CanGrow>true</CanGrow>
+            <Left>3.1746cm</Left>
+            <Height>0.19999in</Height>
+            <Value>=Parameters!jurnaltype_id.Value</Value>
+          </Textbox>
+        </ReportItems>
+        <Top>0.875in</Top>
+        <Style>
+          <BorderColor>
+            <Left>Black</Left>
+          </BorderColor>
+          <BorderStyle>
+            <Default>Solid</Default>
+          </BorderStyle>
+          <BorderWidth>
+            <Default>1.5pt</Default>
+          </BorderWidth>
+        </Style>
+      </Rectangle>
+      <Rectangle Name="rectangle7">
+        <ZIndex>1</ZIndex>
+        <ReportItems>
+          <Textbox Name="order_id_1">
+            <rd:DefaultName>order_id_1</rd:DefaultName>
+            <Top>0.325in</Top>
+            <Width>2.45in</Width>
+            <Style>
+              <FontFamily>Z: 3of 9 BarCode</FontFamily>
+              <FontSize>14pt</FontSize>
+              <TextAlign>Right</TextAlign>
+              <VerticalAlign>Bottom</VerticalAlign>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+            </Style>
+            <ZIndex>4</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>5.1625in</Left>
+            <Height>0.2in</Height>
+            <Value>="*" &amp; Parameters!jurnal_id.Value &amp; "*"</Value>
+          </Textbox>
+          <Textbox Name="textbox8">
+            <Top>0.12501in</Top>
+            <Width>2.45in</Width>
+            <Style>
+              <FontSize>14pt</FontSize>
+              <FontWeight>700</FontWeight>
+              <TextAlign>Right</TextAlign>
+              <VerticalAlign>Bottom</VerticalAlign>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+            </Style>
+            <ZIndex>3</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>5.1625in</Left>
+            <Height>0.2in</Height>
+            <Value>=Parameters!jurnal_id.Value</Value>
+          </Textbox>
+          <Image Name="image2">
+            <Sizing>FitProportional</Sizing>
+            <Top>0.03958in</Top>
+            <Width>0.725in</Width>
+            <Source>External</Source>
+            <Style />
+            <ZIndex>2</ZIndex>
+            <Left>0.0375in</Left>
+            <Height>0.54583in</Height>
+            <Value>=Parameters!imageURL.Value</Value>
+          </Image>
+          <Textbox Name="textbox1">
+            <Top>0.26459in</Top>
+            <Width>3.725in</Width>
+            <Style>
+              <BorderColor>
+                <Default>Gray</Default>
+              </BorderColor>
+              <FontSize>7pt</FontSize>
+              <Format>dd/MM/yyyy</Format>
+              <TextAlign>Left</TextAlign>
+              <PaddingLeft>2pt</PaddingLeft>
+            </Style>
+            <ZIndex>1</ZIndex>
+            <Left>0.8125in</Left>
+            <Height>0.3in</Height>
+            <Value>=Parameters!channel_address.Value</Value>
+          </Textbox>
+          <Textbox Name="textbox4">
+            <Top>0.03958in</Top>
+            <Width>3.725in</Width>
+            <Style>
+              <FontSize>12pt</FontSize>
+              <FontWeight>700</FontWeight>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <CanGrow>true</CanGrow>
+            <Left>0.8125in</Left>
+            <Height>0.225in</Height>
+            <Value>=Parameters!channel_name.Value</Value>
+          </Textbox>
+        </ReportItems>
+        <Style>
+          <BorderColor>
+            <Left>Black</Left>
+          </BorderColor>
+          <BorderStyle>
+            <Default>Solid</Default>
+          </BorderStyle>
+          <BorderWidth>
+            <Default>1.5pt</Default>
+          </BorderWidth>
+        </Style>
+        <Height>0.625in</Height>
+      </Rectangle>
+      <Textbox Name="textbox36">
+        <Top>0.625in</Top>
+        <Style>
+          <BorderStyle>
+            <Default>Solid</Default>
+          </BorderStyle>
+          <BorderWidth>
+            <Default>1.5pt</Default>
+          </BorderWidth>
+          <FontSize>14pt</FontSize>
+          <FontWeight>700</FontWeight>
+          <TextAlign>Center</TextAlign>
+          <VerticalAlign>Middle</VerticalAlign>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+        </Style>
+        <CanGrow>true</CanGrow>
+        <Height>0.25in</Height>
+        <Value>JOURNAL VOUCHER     </Value>
+      </Textbox>
+    </ReportItems>
+    <Height>1.6875in</Height>
+    <PrintOnLastPage>true</PrintOnLastPage>
+  </PageHeader>
+  <BottomMargin>0.1in</BottomMargin>
+  <rd:ReportID>616a33a7-cd32-4107-b0d4-385313f306ef</rd:ReportID>
+  <PageWidth>8.27in</PageWidth>
+  <DataSets>
+    <DataSet Name="ACT_FINANCE_DataSource_clsRptJurnal_Header">
+      <Fields>
+        <Field Name="channel_address">
+          <DataField>channel_address</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="channel_id">
+          <DataField>channel_id</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="channel_namereport">
+          <DataField>channel_namereport</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="currency_id">
+          <DataField>currency_id</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="currency_name">
+          <DataField>currency_name</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="invoice_descr">
+          <DataField>invoice_descr</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="jurnal_amountforeign">
+          <DataField>jurnal_amountforeign</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="jurnal_amountidr">
+          <DataField>jurnal_amountidr</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="jurnal_bookdate">
+          <DataField>jurnal_bookdate</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="jurnal_createby">
+          <DataField>jurnal_createby</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="jurnal_createdate">
+          <DataField>jurnal_createdate</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="jurnal_descr">
+          <DataField>jurnal_descr</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="jurnal_duedate">
+          <DataField>jurnal_duedate</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="jurnal_id">
+          <DataField>jurnal_id</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="jurnal_modifyby">
+          <DataField>jurnal_modifyby</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="jurnal_modifydate">
+          <DataField>jurnal_modifydate</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="jurnal_postby">
+          <DataField>jurnal_postby</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="jurnal_postdate">
+          <DataField>jurnal_postdate</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="jurnal_source">
+          <DataField>jurnal_source</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="jurnaltype_id">
+          <DataField>jurnaltype_id</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="periode_id">
+          <DataField>periode_id</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="periode_name">
+          <DataField>periode_name</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="rekanan_id">
+          <DataField>rekanan_id</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="rekanan_name">
+          <DataField>rekanan_name</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>DummyDataSource</DataSourceName>
+        <CommandText />
+        <rd:UseGenericDesigner>true</rd:UseGenericDesigner>
+      </Query>
+      <rd:DataSetInfo>
+        <rd:DataSetName>ACT_FINANCE.DataSource</rd:DataSetName>
+        <rd:TableName>clsRptJurnal_Header</rd:TableName>
+        <rd:ObjectDataSourceType>ACT_FINANCE.DataSource.clsRptJurnal_Header, ACT_FINANCE, Version=1.0.4031.27454, Culture=neutral, PublicKeyToken=null</rd:ObjectDataSourceType>
+      </rd:DataSetInfo>
+    </DataSet>
+  </DataSets>
+  <Code />
+  <Width>7.65in</Width>
+  <Body>
+    <ReportItems>
+      <Subreport Name="subreport1">
+        <Parameters>
+          <Parameter Name="jurnal_id">
+            <Value>=Fields!jurnal_id.Value</Value>
+          </Parameter>
+          <Parameter Name="jurnal_createby">
+            <Value>=Fields!jurnal_createby.Value</Value>
+          </Parameter>
+          <Parameter Name="jurnal_createdate">
+            <Value>=Fields!jurnal_createdate.Value</Value>
+          </Parameter>
+        </Parameters>
+        <ReportName>ACT_FINANCE.rptJurnal_Detil.rdlc</ReportName>
+      </Subreport>
+    </ReportItems>
+    <Height>1.125in</Height>
+  </Body>
+  <Language>en-US</Language>
+  <TopMargin>0.1in</TopMargin>
+  <PageHeight>11.69in</PageHeight>
+</Report>

@@ -1,0 +1,808 @@
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.pdb
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.xml
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\bin\Debug\FlatTabControl.dll
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbprojResolveAssemblyReference.cache
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_AdvanceOrder.resources
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgAccount.resources
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContact.resources
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContractChoice.resources
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.DlgProses.resources
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgQueryBuilder.resources
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal.resources
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV.resources
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptVoid.resources
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch.resources
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_VQ.resources
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Resources.resources
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_AdvanceOrder.resources
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase.resources
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankReport.resources
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankTransfer.resources
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_ST.resources
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstBank.resources
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstSettingSlip.resources
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnCirculationVoucher.resources
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnVoid.resources
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbproj.GenerateResource.Cache
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.cache
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.compiled
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.xml
+J:\PTS_Data\SOURCE CEK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.pdb
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.pdb
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.xml
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\bin\Debug\FlatTabControl.dll
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbprojResolveAssemblyReference.cache
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_AdvanceOrder.resources
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgAccount.resources
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContact.resources
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContractChoice.resources
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.DlgProses.resources
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgQueryBuilder.resources
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal.resources
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV.resources
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptVoid.resources
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch.resources
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_VQ.resources
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Resources.resources
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_AdvanceOrder.resources
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase.resources
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankReport.resources
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankTransfer.resources
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_ST.resources
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstBank.resources
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstSettingSlip.resources
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnCirculationVoucher.resources
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnVoid.resources
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbproj.GenerateResource.Cache
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.cache
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.compiled
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.xml
+J:\PTS_Data\TESTER_CODE\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.pdb
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.pdb
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.xml
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\bin\Debug\FlatTabControl.dll
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbprojResolveAssemblyReference.cache
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_AdvanceOrder.resources
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgAccount.resources
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContact.resources
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContractChoice.resources
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.DlgProses.resources
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgQueryBuilder.resources
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal.resources
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV.resources
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptVoid.resources
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch.resources
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_VQ.resources
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Resources.resources
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_AdvanceOrder.resources
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase.resources
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankReport.resources
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankTransfer.resources
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_ST.resources
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstBank.resources
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstSettingSlip.resources
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnCirculationVoucher.resources
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnVoid.resources
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbproj.GenerateResource.Cache
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.cache
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.compiled
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.xml
+J:\PTS_Data\SOURCE CEK\_Source to Gamba\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.pdb
+G:\Work\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll
+G:\Work\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.pdb
+G:\Work\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.xml
+G:\Work\ACT_FINANCE\ACT_FINANCE\bin\Debug\FlatTabControl.dll
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgMstAcc.resources
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_AdvanceOrder.resources
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgAccount.resources
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContact.resources
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContractChoice.resources
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.DlgProses.resources
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgQueryBuilder.resources
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal.resources
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV.resources
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptVoid.resources
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch.resources
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_VQ.resources
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Resources.resources
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_AdvanceOrder.resources
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase.resources
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankReport.resources
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankTransfer.resources
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_ST.resources
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstAcc.resources
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnPVDocument.resources
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstBank.resources
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstSettingSlip.resources
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnCirculationVoucher.resources
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnVoid.resources
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbproj.GenerateResource.Cache
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll.licenses
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.cache
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.compiled
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.xml
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.pdb
+G:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbprojResolveAssemblyReference.cache
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.pdb
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.xml
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\bin\Debug\FlatTabControl.dll
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\bin\Debug\office.dll
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\bin\Debug\office.xml
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnalAddInvoice_selectRD.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_select_RD.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Add_invoice.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgMstAcc.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_AdvanceOrder.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgAccount.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContact.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContractChoice.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.DlgProses.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgQueryBuilder.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptVoid.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_VQ.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Resources.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_AdvanceOrder.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankReport.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankTransfer.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_ST.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Form1.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstAcc.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstCaReport.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnPVDocument.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstBank.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstSettingSlip.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnCirculationVoucher.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnVoid.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbproj.GenerateResource.Cache
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.cache
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.compiled
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.xml
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.pdb
+D:\Work\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll
+D:\Work\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.pdb
+D:\Work\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.xml
+D:\Work\ACT_FINANCE\ACT_FINANCE\bin\Debug\FlatTabControl.dll
+D:\Work\ACT_FINANCE\ACT_FINANCE\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Work\ACT_FINANCE\ACT_FINANCE\bin\Debug\office.dll
+D:\Work\ACT_FINANCE\ACT_FINANCE\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Work\ACT_FINANCE\ACT_FINANCE\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Work\ACT_FINANCE\ACT_FINANCE\bin\Debug\office.xml
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbprojResolveAssemblyReference.cache
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnalAddInvoice_selectRD.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_select_RD.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Add_invoice.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgMstAcc.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_AdvanceOrder.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgAccount.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContact.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContractChoice.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.DlgProses.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgQueryBuilder.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptVoid.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_VQ.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Resources.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_AdvanceOrder.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankReport.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankTransfer.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_ST.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Form1.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstAcc.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstCaReport.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnPVDocument.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstBank.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstSettingSlip.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnCirculationVoucher.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnVoid.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbproj.GenerateResource.Cache
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll.licenses
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.cache
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.compiled
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.xml
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.pdb
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstListCaAccountJurnalPV.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch_Acc_Ca.resources
+D:\AJI MDP2 IT SOFTWARE\File Kerjaan\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbprojResolveAssemblyReference.cache
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.pdb
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.xml
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\bin\Debug\FlatTabControl.dll
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\bin\Debug\Microsoft.Office.Interop.Excel.dll
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\bin\Debug\office.dll
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\bin\Debug\Microsoft.Vbe.Interop.dll
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\bin\Debug\Microsoft.Office.Interop.Excel.xml
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\bin\Debug\office.xml
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch_Acc_Ca.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSelectRekeningPrint.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSettingPrinterGiroCek.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnalAddInvoice_selectRD.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening1.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_select_RD.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Add_invoice.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgMstAcc.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_AdvanceOrder.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgAccount.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContact.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContractChoice.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.DlgProses.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgQueryBuilder.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptVoid.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_VQ.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Resources.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_AdvanceOrder.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankReport.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankTransfer.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_ST.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnPVDocument2.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstListCaAccountJurnalPV.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Form1.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstAcc.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstCaReport.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnPVDocument.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstBank.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstSettingSlip.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnCirculationVoucher.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnVoid.resources
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbproj.GenerateResource.Cache
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll.licenses
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.cache
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.compiled
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.xml
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.pdb
+J:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbprojResolveAssemblyReference.cache
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.pdb
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.xml
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\bin\Debug\FlatTabControl.dll
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbprojResolveAssemblyReference.cache
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch_Acc_Ca.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSelectRekeningPrint.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSettingPrinterGiroCek.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnalAddInvoice_selectRD.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening1.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_select_RD.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Add_invoice.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgMstAcc.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_AdvanceOrder.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgAccount.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContact.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContractChoice.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.DlgProses.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgQueryBuilder.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptVoid.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_VQ.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Resources.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_AdvanceOrder.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankReport.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankTransfer.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_ST.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnPVDocument2.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstListCaAccountJurnalPV.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Form1.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstAcc.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstCaReport.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnPVDocument.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstBank.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstSettingSlip.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnCirculationVoucher.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnVoid.resources
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbproj.GenerateResource.Cache
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll.licenses
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.cache
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.compiled
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.xml
+J:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.pdb
+E:\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll
+E:\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.pdb
+E:\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.xml
+E:\ACT_FINANCE\ACT_FINANCE\bin\Debug\FlatTabControl.dll
+E:\ACT_FINANCE\ACT_FINANCE\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\ACT_FINANCE\ACT_FINANCE\bin\Debug\office.dll
+E:\ACT_FINANCE\ACT_FINANCE\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\ACT_FINANCE\ACT_FINANCE\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\ACT_FINANCE\ACT_FINANCE\bin\Debug\office.xml
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbprojResolveAssemblyReference.cache
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch_Acc_Ca.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSelectRekeningPrint.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSettingPrinterGiroCek.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnalAddInvoice_selectRD.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening1.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_select_RD.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Add_invoice.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgMstAcc.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_AdvanceOrder.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgAccount.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContact.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContractChoice.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.DlgProses.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgQueryBuilder.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptVoid.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_VQ.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Resources.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_AdvanceOrder.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankReport.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankTransfer.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_ST.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnPVDocument2.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstListCaAccountJurnalPV.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Form1.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstAcc.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstCaReport.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnPVDocument.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstBank.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstSettingSlip.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnCirculationVoucher.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnVoid.resources
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbproj.GenerateResource.Cache
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll.licenses
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.cache
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.compiled
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.xml
+E:\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.pdb
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.pdb
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.xml
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\bin\Debug\FlatTabControl.dll
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\bin\Debug\office.dll
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\bin\Debug\office.xml
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbprojResolveAssemblyReference.cache
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch_Acc_Ca.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSelectRekeningPrint.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSettingPrinterGiroCek.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnalAddInvoice_selectRD.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening1.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_select_RD.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Add_invoice.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgMstAcc.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_AdvanceOrder.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgAccount.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContact.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContractChoice.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.DlgProses.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgQueryBuilder.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptVoid.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_VQ.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Resources.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_AdvanceOrder.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankReport.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankTransfer.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_ST.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_JV_Adjustment_BankSaldo.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnPVDocument2.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstListCaAccountJurnalPV.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Form1.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstAcc.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstCaReport.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnPVDocument.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstBank.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstSettingSlip.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnCirculationVoucher.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnVoid.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbproj.GenerateResource.Cache
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll.licenses
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.cache
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.compiled
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.xml
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.pdb
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.pdb
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.xml
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\bin\Debug\FlatTabControl.dll
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\bin\Debug\office.dll
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\bin\Debug\office.xml
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch_Acc_Ca.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSelectRekeningPrint.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSettingPrinterGiroCek.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnalAddInvoice_selectRD.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening1.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_select_RD.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Add_invoice.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgMstAcc.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_AdvanceOrder.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgAccount.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContact.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContractChoice.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.DlgProses.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgQueryBuilder.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptVoid.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_VQ.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Resources.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_AdvanceOrder.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankReport.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankTransfer.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_ST.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_JV_Adjustment_BankSaldo.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnPVDocument2.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstListCaAccountJurnalPV.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Form1.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstAcc.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstCaReport.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnPVDocument.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstBank.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstSettingSlip.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnCirculationVoucher.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnVoid.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbproj.GenerateResource.Cache
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll.licenses
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.cache
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.compiled
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.xml
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.pdb
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbproj.ResolveComReference.cache
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekeningWinner.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_RekeningWinner.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase2.resources
+D:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP_Prize.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekeningWinner.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_RekeningWinner.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase2.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP_Prize.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgChangeEffectiveDate.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_AP_ChangeBookDatePeriode.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_AP_MessageBox_PostingListResult.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekeningWinner.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_RekeningWinner.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch_Acc_Ca.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSelectRekeningPrint.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSettingPrinterGiroCek.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening1.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.RptOutstandingOrder.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase2.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiReportOutstandingOrder.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnalPV_ChangeEffectiveDate.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP_Prize.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_JV_Adjustment_BankSaldo.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnPVDocument2.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstListCaAccountJurnalPV.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnAdvanceDisbursementList.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll.config
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.DlgAdvanceDisbursement_Advance.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.DlgDate.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.DlgAdvanceDisbursement_History.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationRekanan.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll.config
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.pdb
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.xml
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\bin\Debug\FlatTabControl.dll
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\bin\Debug\office.dll
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\bin\Debug\office.xml
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbprojResolveAssemblyReference.cache
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.DlgAdvanceDisbursement_Advance.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.DlgAdvanceDisbursement_History.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.DlgDate.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgChangeEffectiveDate.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationRekanan.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_AP_ChangeBookDatePeriode.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_AP_MessageBox_PostingListResult.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekeningWinner.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_RekeningWinner.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch_Acc_Ca.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSelectRekeningPrint.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSettingPrinterGiroCek.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnalAddInvoice_selectRD.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening1.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_select_RD.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Add_invoice.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgMstAcc.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_AdvanceOrder.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgAccount.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContact.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContractChoice.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.DlgProses.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgQueryBuilder.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptVoid.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_VQ.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Resources.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.RptOutstandingOrder.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_AdvanceOrder.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase2.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiReportOutstandingOrder.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankReport.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankTransfer.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_ST.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnAdvanceDisbursementList.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnalPV_ChangeEffectiveDate.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP_Prize.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_JV_Adjustment_BankSaldo.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnPVDocument2.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstListCaAccountJurnalPV.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Form1.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstAcc.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstCaReport.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnPVDocument.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstBank.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstSettingSlip.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnCirculationVoucher.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnVoid.resources
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbproj.GenerateResource.Cache
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll.licenses
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.cache
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.compiled
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.xml
+E:\BIMO IT SOFTWARE\Download\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.pdb
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_ChoiceTravel.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSelectBudgetDetil.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSelectBudgetDetil2.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSelectTravel_Advance.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSplitRowAdvanceDetil_ManySplit.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnAdvanceOrder_Select_Order.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnAdvancePrintListSPD.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnAdvance_SelectEps.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_AdvanceTravel.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnSelectItemChild.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnSelectItemChildListOrder.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_AdvanceTravel_Auto.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_AdvanceTravel.resources
+D:\Work\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiWhatsApp.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll.config
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.pdb
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.xml
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\bin\Debug\FlatTabControl.dll
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\bin\Debug\office.dll
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\bin\Debug\office.xml
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_ChoiceTravel.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSelectBudgetDetil.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSelectBudgetDetil2.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSelectTravel_Advance.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSplitRowAdvanceDetil_ManySplit.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnAdvanceOrder_Select_Order.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnAdvancePrintListSPD.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnAdvance_SelectEps.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_AdvanceTravel.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.DlgAdvanceDisbursement_Advance.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.DlgAdvanceDisbursement_History.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.DlgDate.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgChangeEffectiveDate.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationRekanan.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_AP_ChangeBookDatePeriode.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_AP_MessageBox_PostingListResult.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekeningWinner.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_RekeningWinner.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch_Acc_Ca.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSelectRekeningPrint.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSettingPrinterGiroCek.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnalAddInvoice_selectRD.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening1.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_select_RD.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Add_invoice.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgMstAcc.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_AdvanceOrder.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgAccount.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContact.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgContractChoice.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.DlgProses.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgQueryBuilder.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_Choice.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptVoid.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSearch.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationSelectPV.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_TransferRekening.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_Advance.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_VQ.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnSelectItemChild.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnSelectItemChildListOrder.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Resources.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.RptOutstandingOrder.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_AdvanceOrder.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_AdvanceTravel_Auto.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_AdvanceTravel.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiBase2.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiWhatsApp.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiReportOutstandingOrder.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankReport.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiRptBankTransfer.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_ST.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnAdvanceDisbursementList.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnalPV_ChangeEffectiveDate.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP_Prize.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_JV_Adjustment_BankSaldo.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnPVDocument2.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstListCaAccountJurnalPV.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.Form1.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstAcc.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstCaReport.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_List_AP.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnPVDocument.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstBank.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiMstSettingSlip.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnCirculationVoucher.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Advance.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_Manual.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnVoid.resources
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.vbproj.GenerateResource.Cache
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll.licenses
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.cache
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\RdlCompile.compiled
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dll
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.xml
+E:\ARI MDP2NET\ARI WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.pdb
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\bin\Debug\ACT_FINANCE.dll.config
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgRptJurnal_PV_ChoiceTravel.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSelectBudgetDetil.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSelectBudgetDetil2.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSelectTravel_Advance.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgSplitRowAdvanceDetil_ManySplit.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnAdvanceOrder_Select_Order.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnAdvancePrintListSPD.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnAdvance_SelectEps.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_Select_AdvanceTravel.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.DlgAdvanceDisbursement_Advance.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.DlgAdvanceDisbursement_History.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.DlgDate.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgChangeEffectiveDate.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnCirculationRekanan.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_AP_ChangeBookDatePeriode.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnJurnal_PV_List_AP_MessageBox_PostingListResult.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnSelectItemChild.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.dlgTrnSelectItemChildListOrder.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.RptOutstandingOrder.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_AdvanceTravel_Auto.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnal_PV_AdvanceTravel.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiWhatsApp.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiReportOutstandingOrder.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnAdvanceDisbursementList.resources
+D:\PTS_Data\WORK\ACT_FINANCE\ACT_FINANCE\obj\Debug\ACT_FINANCE.uiTrnJurnalPV_ChangeEffectiveDate.resources
