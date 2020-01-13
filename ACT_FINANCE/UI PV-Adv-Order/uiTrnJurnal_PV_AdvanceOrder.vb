@@ -634,7 +634,7 @@ Public Class uiTrnJurnal_PV_AdvanceOrder
         cJurnaltype_id.ReadOnly = False
 
         cRekanan_id.Name = "rekanan_id"
-        cRekanan_id.HeaderText = "Rekanan"
+        cRekanan_id.HeaderText = "Partner"
         cRekanan_id.DataPropertyName = "rekanan_id"
         cRekanan_id.Width = 150
         cRekanan_id.Visible = False
@@ -648,7 +648,7 @@ Public Class uiTrnJurnal_PV_AdvanceOrder
         cPeriode_id.ReadOnly = False
 
         cChannel_id.Name = "channel_id"
-        cChannel_id.HeaderText = "Channel"
+        cChannel_id.HeaderText = "Company"
         cChannel_id.DataPropertyName = "channel_id"
         cChannel_id.Width = 100
         cChannel_id.Visible = True
@@ -821,7 +821,7 @@ Public Class uiTrnJurnal_PV_AdvanceOrder
         cJurnal_amountforeign.ReadOnly = True
 
         cRekanan_name.Name = "rekanan_name"
-        cRekanan_name.HeaderText = "Rekanan"
+        cRekanan_name.HeaderText = "Partner"
         cRekanan_name.DataPropertyName = "rekanan_name"
         cRekanan_name.Width = 150
         cRekanan_name.Visible = True
@@ -1614,14 +1614,14 @@ Public Class uiTrnJurnal_PV_AdvanceOrder
         cStrukturunit_name.ReadOnly = True
 
         cRekanan_name.Name = "rekanan_name"
-        cRekanan_name.HeaderText = "Rekanan"
+        cRekanan_name.HeaderText = "Partner"
         cRekanan_name.DataPropertyName = "rekanan_name"
         cRekanan_name.Width = 200
         cRekanan_name.Visible = True
         cRekanan_name.ReadOnly = True
 
         cChannel_id.Name = "channel_id"
-        cChannel_id.HeaderText = "Channel"
+        cChannel_id.HeaderText = "Company"
         cChannel_id.DataPropertyName = "channel_id"
         cChannel_id.Width = 100
         cChannel_id.Visible = True
@@ -1687,7 +1687,7 @@ Public Class uiTrnJurnal_PV_AdvanceOrder
         cJurnal_descr.ReadOnly = True
 
         cRekanan_name.Name = "rekanan_name"
-        cRekanan_name.HeaderText = "Rekanan"
+        cRekanan_name.HeaderText = "Partner"
         cRekanan_name.DataPropertyName = "rekanan_name"
         cRekanan_name.Width = 200
         cRekanan_name.Visible = True
@@ -1729,7 +1729,7 @@ Public Class uiTrnJurnal_PV_AdvanceOrder
         cJurnal_idr.DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleRight
 
         cChannel_id.Name = "channel_id"
-        cChannel_id.HeaderText = "Channel"
+        cChannel_id.HeaderText = "Company"
         cChannel_id.DataPropertyName = "channel_id"
         cChannel_id.Width = 100
         cChannel_id.Visible = True
@@ -5482,8 +5482,8 @@ Public Class uiTrnJurnal_PV_AdvanceOrder
                 Me.tbtnDel.Enabled = False
                 Me.tbtnLoad.Enabled = True
                 Me.tbtnQuery.Enabled = True
-                Me.ftabMain.TabPages.Item(0).BackColor = Color.LightSteelBlue 'Lavender
-                Me.ftabMain.TabPages.Item(1).BackColor = Color.White
+                'Me.ftabMain.TabPages.Item(0).BackColor = Color.LightSteelBlue 'Lavender
+                'Me.ftabMain.TabPages.Item(1).BackColor = Color.White
                 Me.btnPost.Visible = False
                 Me.btnUnPost.Visible = False
             Case 1
@@ -5491,8 +5491,8 @@ Public Class uiTrnJurnal_PV_AdvanceOrder
                 Me.tbtnDel.Enabled = True
                 Me.tbtnLoad.Enabled = False
                 Me.tbtnQuery.Enabled = False
-                Me.ftabMain.TabPages.Item(0).BackColor = Color.White
-                Me.ftabMain.TabPages.Item(1).BackColor = Color.LightSteelBlue 'Lavender
+                'Me.ftabMain.TabPages.Item(0).BackColor = Color.White
+                'Me.ftabMain.TabPages.Item(1).BackColor = Color.LightSteelBlue 'Lavender
 
                 Me.fTabDataDetil.SelectedIndex = 1
                 If Me._USER_TYPE = "SPV" Then
@@ -5516,11 +5516,11 @@ Public Class uiTrnJurnal_PV_AdvanceOrder
     Private Sub fTabDataDetil_SelectedIndexChanged(ByVal sender As Object, ByVal e As System.EventArgs) Handles fTabDataDetil.SelectedIndexChanged
         Dim i, activetab As Byte
 
-        For i = 0 To (Me.fTabDataDetil.TabCount - 1)
-            Me.fTabDataDetil.TabPages.Item(i).BackColor = Color.LightSteelBlue 'LavenderBlush
-        Next
-        activetab = Me.fTabDataDetil.SelectedIndex
-        Me.fTabDataDetil.TabPages.Item(activetab).BackColor = Color.White
+        'For i = 0 To (Me.fTabDataDetil.TabCount - 1)
+        '    Me.fTabDataDetil.TabPages.Item(i).BackColor = Color.LightSteelBlue 'LavenderBlush
+        'Next
+        'activetab = Me.fTabDataDetil.SelectedIndex
+        'Me.fTabDataDetil.TabPages.Item(activetab).BackColor = Color.White
     End Sub
 
 #Region "Event On Dgv Header"
@@ -7315,7 +7315,7 @@ ulang:
         Me.DataFillForComboDec("strukturunit_id", "strukturunit_name", Me.tbl_MstStrukturunitGrid, "ms_MstStrukturunitCombo_Select", " strukturunit_active = 1 ")
         Me.tbl_MstStrukturunitGrid.DefaultView.Sort = "strukturunit_name"
 
-        Me.label_thread = "Rekanan"
+        Me.label_thread = "Partner"
         worker.ReportProgress(50)
         Me.ComboFillDec(Me.obj_Rekanan_id, "rekanan_id", "rekanan_name", Me.tbl_MstRekanan, "ms_MstRekanan_Select2", " rekanan_active = 1 ", Me._CHANNEL)
         Me.tbl_MstRekananGrid = Me.tbl_MstRekanan.Copy()

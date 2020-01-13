@@ -187,7 +187,7 @@ Public Class uiMstListCaAccountJurnalPV
         cRekanan_ID.ReadOnly = False
 
         cRekanan_Name.Name = "rekanan_name"
-        cRekanan_Name.HeaderText = "Rekanan"
+        cRekanan_Name.HeaderText = "Partner"
         cRekanan_Name.DataPropertyName = "rekanan_name"
         cRekanan_Name.Width = 150
         cRekanan_Name.Visible = True
@@ -357,7 +357,7 @@ Public Class uiMstListCaAccountJurnalPV
                 xlWorksheet.Cells(1, 2).Value = "Bookdate"
                 xlWorksheet.Cells(1, 3).Value = "Desc."
                 xlWorksheet.Cells(1, 4).Value = "Ca Account"
-                xlWorksheet.Cells(1, 5).Value = "Rekanan"
+                xlWorksheet.Cells(1, 5).Value = "Partner"
                 xlWorksheet.Cells(1, 6).Value = "Jurnal Ref ID"
                 xlWorksheet.Cells(1, 7).Value = "Budget"
 
@@ -548,7 +548,7 @@ Public Class uiMstListCaAccountJurnalPV
                 xlWorksheet.Cells(1, 2).Value = "Bookdate"
                 xlWorksheet.Cells(1, 3).Value = "Desc."
                 xlWorksheet.Cells(1, 4).Value = "Ca Account"
-                xlWorksheet.Cells(1, 5).Value = "Rekanan"
+                xlWorksheet.Cells(1, 5).Value = "Partner"
                 xlWorksheet.Cells(1, 6).Value = "Jurnal Ref ID"
                 xlWorksheet.Cells(1, 7).Value = "Budget"
 

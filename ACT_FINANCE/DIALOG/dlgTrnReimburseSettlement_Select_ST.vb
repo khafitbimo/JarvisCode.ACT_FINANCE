@@ -287,21 +287,21 @@ Public Class dlgTrnReimburseSettlement_Select_ST
         cAcc_id.ReadOnly = True
 
         cRekanan_id.Name = "rekanan_id"
-        cRekanan_id.HeaderText = "Rekanan"
+        cRekanan_id.HeaderText = "Partner"
         cRekanan_id.DataPropertyName = "rekanan_id"
         cRekanan_id.Width = 100
         cRekanan_id.Visible = False
         cRekanan_id.ReadOnly = True
 
         cChannel_id.Name = "channel_id"
-        cChannel_id.HeaderText = "Channel"
+        cChannel_id.HeaderText = "Company"
         cChannel_id.DataPropertyName = "channel_id"
         cChannel_id.Width = 75
         cChannel_id.Visible = True
         cChannel_id.ReadOnly = True
 
         cRekanan_name.Name = "rekanan_name"
-        cRekanan_name.HeaderText = "Rekanan"
+        cRekanan_name.HeaderText = "Partner"
         cRekanan_name.DataPropertyName = "rekanan_name"
         cRekanan_name.Width = 75
         cRekanan_name.Visible = True

@@ -12178,7 +12178,7 @@ ulang:
         Dim oDataFiller As New clsDataFiller(Me.DSN)
 
         worker.WorkerReportsProgress = True
-        Me.label_thread = "Rekanan"
+        Me.label_thread = "Partner"
         worker.ReportProgress(0)
 
         '===============REMARK BY PTS Me.obj_Advance_usedby--> NGAMBIL DARI USER NAME FULL======== 20141003 ==================================================

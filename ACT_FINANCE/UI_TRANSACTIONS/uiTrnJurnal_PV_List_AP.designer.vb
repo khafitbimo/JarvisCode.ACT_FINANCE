@@ -571,7 +571,7 @@ Partial Class uiTrnJurnal_PV_List_AP
         Me.chkSearchChannel.Name = "chkSearchChannel"
         Me.chkSearchChannel.Size = New System.Drawing.Size(65, 17)
         Me.chkSearchChannel.TabIndex = 0
-        Me.chkSearchChannel.Text = "Channel"
+        Me.chkSearchChannel.Text = "Company"
         Me.chkSearchChannel.UseVisualStyleBackColor = True
         '
         'ftabMain_Data

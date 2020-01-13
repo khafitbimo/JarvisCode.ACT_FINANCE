@@ -166,7 +166,7 @@ Partial Class dlgSelectTravel_Advance
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(46, 13)
         Me.Label1.TabIndex = 89
-        Me.Label1.Text = "Channel"
+        Me.Label1.Text = "Company"
         '
         'obj_Channel_id
         '

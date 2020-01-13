@@ -574,7 +574,7 @@ Partial Class uiTrnJurnal_PV_List_AP_Prize
         Me.chkSearchChannel.Name = "chkSearchChannel"
         Me.chkSearchChannel.Size = New System.Drawing.Size(65, 17)
         Me.chkSearchChannel.TabIndex = 0
-        Me.chkSearchChannel.Text = "Channel"
+        Me.chkSearchChannel.Text = "Company"
         Me.chkSearchChannel.UseVisualStyleBackColor = True
         '
         'ftabMain_Data
@@ -1862,7 +1862,7 @@ Partial Class uiTrnJurnal_PV_List_AP_Prize
         Me.lbl_Rekanan_id.Name = "lbl_Rekanan_id"
         Me.lbl_Rekanan_id.Size = New System.Drawing.Size(51, 13)
         Me.lbl_Rekanan_id.TabIndex = 0
-        Me.lbl_Rekanan_id.Text = "Rekanan"
+        Me.lbl_Rekanan_id.Text = "Partner"
         '
         'lbl_Periode_id
         '

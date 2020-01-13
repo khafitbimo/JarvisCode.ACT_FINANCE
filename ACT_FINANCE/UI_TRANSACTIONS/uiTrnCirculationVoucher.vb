@@ -123,7 +123,7 @@ Public Class uiTrnCirculationVoucher
                     xlWorksheet.Cells(1, 5).Value = "Due Date"
                     xlWorksheet.Cells(1, 6).Value = "Bilyet Type"
                     xlWorksheet.Cells(1, 7).Value = "Bilyet"
-                    xlWorksheet.Cells(1, 8).Value = "Rekanan"
+                    xlWorksheet.Cells(1, 8).Value = "Partner"
                     xlWorksheet.Cells(1, 9).Value = "Description"
                     xlWorksheet.Cells(1, 10).Value = "Amount"
                     'tambahan
@@ -885,14 +885,14 @@ Public Class uiTrnCirculationVoucher
         cCirculationdetil_bilyet.DefaultCellStyle.BackColor = Color.LightYellow
 
         cCirculationdetil_rekanan.Name = "circulationdetil_rekanan"
-        cCirculationdetil_rekanan.HeaderText = "Rekanan"
+        cCirculationdetil_rekanan.HeaderText = "Partner"
         cCirculationdetil_rekanan.DataPropertyName = "circulationdetil_rekanan"
         cCirculationdetil_rekanan.Width = 150
         cCirculationdetil_rekanan.Visible = False
         cCirculationdetil_rekanan.ReadOnly = True
 
         cCirculationdetil_rekananName.Name = "rekanan_name"
-        cCirculationdetil_rekananName.HeaderText = "Rekanan"
+        cCirculationdetil_rekananName.HeaderText = "Partner"
         cCirculationdetil_rekananName.DataPropertyName = "rekanan_name"
         cCirculationdetil_rekananName.Width = 150
         cCirculationdetil_rekananName.Visible = True

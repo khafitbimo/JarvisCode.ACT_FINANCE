@@ -93,7 +93,7 @@ Public Class uiTrnPVDocument2
         Dim ccurrency_name As System.Windows.Forms.DataGridViewTextBoxColumn = New System.Windows.Forms.DataGridViewTextBoxColumn
 
         cChannel_id.Name = "channel_id"
-        cChannel_id.HeaderText = "channel"
+        cChannel_id.HeaderText = "Company"
         cChannel_id.DataPropertyName = "channel_id"
         cChannel_id.Width = 100
         cChannel_id.Visible = False

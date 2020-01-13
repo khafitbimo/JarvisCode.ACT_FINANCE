@@ -2178,7 +2178,7 @@ Partial Class uiTrnJurnal_PV_AdvanceTravel_Auto
         Me.lbl_channel_id.Name = "lbl_channel_id"
         Me.lbl_channel_id.Size = New System.Drawing.Size(46, 13)
         Me.lbl_channel_id.TabIndex = 0
-        Me.lbl_channel_id.Text = "Channel"
+        Me.lbl_channel_id.Text = "Company"
         '
         'obj_type_id
         '

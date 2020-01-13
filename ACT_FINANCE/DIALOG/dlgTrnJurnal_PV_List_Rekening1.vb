@@ -804,7 +804,7 @@ Public Class dlgTrnJurnal_PV_List_Rekening1
             Me.dgvArtisName.DataSource = Me.tbl_MstArtis
 
         ElseIf Me.TombolRekeningClick = "other" Then
-            Me.lb_rekananname.Text = "Rekanan"
+            Me.lb_rekananname.Text = "Partner"
             Me.dgvArtisName.Visible = True
             Me.SplitContainer1.SplitterDistance = 194
             Me.SplitContainer1.Panel1Collapsed = False

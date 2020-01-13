@@ -262,7 +262,7 @@ Public Class dlgTrnJurnalAddInvoice_selectRD
         cOutstanding_remain_foreign.ReadOnly = True
 
         cChannel_id.Name = "channel_id"
-        cChannel_id.HeaderText = "Channel"
+        cChannel_id.HeaderText = "Company"
         cChannel_id.DataPropertyName = "channel_id"
         cChannel_id.Width = 100
         cChannel_id.DefaultCellStyle.Alignment = DataGridViewContentAlignment.NotSet

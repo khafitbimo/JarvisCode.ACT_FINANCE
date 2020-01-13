@@ -51,8 +51,23 @@ ACT_FINANCE
 	<summary>
   A strongly-typed resource class, for looking up localized strings, etc.
 </summary>
+</member><member name="F:ACT_FINANCE.dlgTrnSelectItemChildListOrder.retObj">
+Private rettbl As DataTable = clsDataset.CreateTblTrnAdvanceItemDetil()
+
+</member><member name="F:ACT_FINANCE.dlgTrnAdvance_SelectEps.tbl_trnAdvancedetileps">
+Dim retObj As uiAdvanceRequest.SelectEpsDialogReturn = New uiAdvanceRequest.SelectEpsDialogReturn()
+
+</member><member name="M:ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.Dispose(System.Boolean)">
+Form overrides dispose to clean up the component list.
+
+</member><member name="M:ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening1.Dispose(System.Boolean)">
+Form overrides dispose to clean up the component list.
+
 </member><member name="M:ACT_FINANCE.dlgTrnJurnal_PV_List_RekeningWinner.Dispose(System.Boolean)">
 Form overrides dispose to clean up the component list.
+
+</member><member name="F:ACT_FINANCE.dlgTrnSelectItemChild.retObj">
+Private rettbl As DataTable = clsDataset.CreateTblTrnAdvanceItemDetil()
 
 </member><member name="M:ACT_FINANCE.uiTrnCirculationVoucher.uiTrnCirculationVouccher_AppDireksi(System.String,System.Int32,System.Int32)">
 	<summary>
@@ -62,21 +77,6 @@ Form overrides dispose to clean up the component list.
 	<param name="app_type">0 = Approve, 1 = Disapprove</param>
 	<returns></returns>
 	<remarks></remarks>
-</member><member name="M:ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening1.Dispose(System.Boolean)">
-Form overrides dispose to clean up the component list.
-
-</member><member name="F:ACT_FINANCE.dlgTrnAdvance_SelectEps.tbl_trnAdvancedetileps">
-Dim retObj As uiAdvanceRequest.SelectEpsDialogReturn = New uiAdvanceRequest.SelectEpsDialogReturn()
-
-</member><member name="M:ACT_FINANCE.dlgTrnJurnal_PV_List_Rekening.Dispose(System.Boolean)">
-Form overrides dispose to clean up the component list.
-
-</member><member name="F:ACT_FINANCE.dlgTrnSelectItemChild.retObj">
-Private rettbl As DataTable = clsDataset.CreateTblTrnAdvanceItemDetil()
-
-</member><member name="F:ACT_FINANCE.dlgTrnSelectItemChildListOrder.retObj">
-Private rettbl As DataTable = clsDataset.CreateTblTrnAdvanceItemDetil()
-
 </member>
 </members>
 </doc>

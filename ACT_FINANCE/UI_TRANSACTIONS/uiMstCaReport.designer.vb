@@ -141,7 +141,7 @@ Partial Class uiMstCaReport
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(46, 13)
         Me.Label2.TabIndex = 4
-        Me.Label2.Text = "Channel"
+        Me.Label2.Text = "Company"
         '
         'Label1
         '

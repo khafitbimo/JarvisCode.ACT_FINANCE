@@ -79,7 +79,7 @@ Partial Class dlgTrnJurnal_PV_Select_Advance
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(46, 13)
         Me.Label1.TabIndex = 6
-        Me.Label1.Text = "Channel"
+        Me.Label1.Text = "Company"
         '
         'btnAdd
         '

@@ -121,7 +121,7 @@ Partial Class uiTrnPVDocument2
         '
         'colChannelID
         '
-        Me.colChannelID.Caption = "Channel"
+        Me.colChannelID.Caption = "Company"
         Me.colChannelID.FieldName = "channel_id"
         Me.colChannelID.Name = "colChannelID"
         Me.colChannelID.Visible = True
@@ -436,7 +436,7 @@ Partial Class uiTrnPVDocument2
         Me.chkRekananIDSrch.Name = "chkRekananIDSrch"
         Me.chkRekananIDSrch.Size = New System.Drawing.Size(70, 17)
         Me.chkRekananIDSrch.TabIndex = 246
-        Me.chkRekananIDSrch.Text = "Rekanan"
+        Me.chkRekananIDSrch.Text = "Partner"
         Me.chkRekananIDSrch.UseVisualStyleBackColor = True
         '
         'Label1
@@ -560,7 +560,7 @@ Partial Class uiTrnPVDocument2
         Me.chkSearchChannel.Name = "chkSearchChannel"
         Me.chkSearchChannel.Size = New System.Drawing.Size(65, 17)
         Me.chkSearchChannel.TabIndex = 230
-        Me.chkSearchChannel.Text = "Channel"
+        Me.chkSearchChannel.Text = "Company"
         Me.chkSearchChannel.UseVisualStyleBackColor = True
         '
         'ftabMain

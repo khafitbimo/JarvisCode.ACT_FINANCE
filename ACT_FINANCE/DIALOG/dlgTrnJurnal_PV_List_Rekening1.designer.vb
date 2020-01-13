@@ -212,7 +212,7 @@ Partial Class dlgTrnJurnal_PV_List_Rekening1
         Me.lb_rekananname.Name = "lb_rekananname"
         Me.lb_rekananname.Size = New System.Drawing.Size(51, 13)
         Me.lb_rekananname.TabIndex = 0
-        Me.lb_rekananname.Text = "Rekanan"
+        Me.lb_rekananname.Text = "Partner"
         '
         'DgvRekening
         '

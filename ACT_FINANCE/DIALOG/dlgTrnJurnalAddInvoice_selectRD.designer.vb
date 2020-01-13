@@ -133,7 +133,7 @@ Partial Class dlgTrnJurnalAddInvoice_selectRD
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(46, 13)
         Me.Label1.TabIndex = 16
-        Me.Label1.Text = "Channel"
+        Me.Label1.Text = "Company"
         '
         'obj_Channel_id
         '
@@ -151,7 +151,7 @@ Partial Class dlgTrnJurnalAddInvoice_selectRD
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(51, 13)
         Me.Label2.TabIndex = 16
-        Me.Label2.Text = "Rekanan"
+        Me.Label2.Text = "Partner"
         '
         'obj_jurnal_line
         '

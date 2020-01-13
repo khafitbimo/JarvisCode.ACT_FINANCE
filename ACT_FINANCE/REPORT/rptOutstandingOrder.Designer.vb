@@ -548,7 +548,7 @@ Partial Public Class RptOutstandingOrder
         '
         'ParChannelName
         '
-        Me.ParChannelName.Description = "Channel"
+        Me.ParChannelName.Description = "Company"
         Me.ParChannelName.Name = "ParChannelName"
         Me.ParChannelName.Value = "PT. Net Mediatama Televisi"
         '

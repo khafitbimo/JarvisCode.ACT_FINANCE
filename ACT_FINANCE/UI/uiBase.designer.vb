@@ -20,25 +20,25 @@ Partial Class uiBase
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(uiBase))
-        Me.ToolStrip1 = New System.Windows.Forms.ToolStrip
-        Me.tbtnNew = New System.Windows.Forms.ToolStripButton
-        Me.tbtnSave = New System.Windows.Forms.ToolStripButton
-        Me.ToolStripSeparator1 = New System.Windows.Forms.ToolStripSeparator
-        Me.tbtnPrint = New System.Windows.Forms.ToolStripButton
-        Me.tbtnPrintPreview = New System.Windows.Forms.ToolStripButton
-        Me.ToolStripSeparator5 = New System.Windows.Forms.ToolStripSeparator
-        Me.tbtnEdit = New System.Windows.Forms.ToolStripButton
-        Me.tbtnDel = New System.Windows.Forms.ToolStripButton
-        Me.ToolStripSeparator2 = New System.Windows.Forms.ToolStripSeparator
-        Me.tbtnLoad = New System.Windows.Forms.ToolStripButton
-        Me.tbtnQuery = New System.Windows.Forms.ToolStripButton
-        Me.tbtnRefresh = New System.Windows.Forms.ToolStripButton
-        Me.ToolStripSeparator3 = New System.Windows.Forms.ToolStripSeparator
-        Me.tbtnFirst = New System.Windows.Forms.ToolStripButton
-        Me.tbtnPrev = New System.Windows.Forms.ToolStripButton
-        Me.tbtnNext = New System.Windows.Forms.ToolStripButton
-        Me.tbtnLast = New System.Windows.Forms.ToolStripButton
-        Me.ToolStripSeparator4 = New System.Windows.Forms.ToolStripSeparator
+        Me.ToolStrip1 = New System.Windows.Forms.ToolStrip()
+        Me.tbtnNew = New System.Windows.Forms.ToolStripButton()
+        Me.tbtnSave = New System.Windows.Forms.ToolStripButton()
+        Me.ToolStripSeparator1 = New System.Windows.Forms.ToolStripSeparator()
+        Me.tbtnPrint = New System.Windows.Forms.ToolStripButton()
+        Me.tbtnPrintPreview = New System.Windows.Forms.ToolStripButton()
+        Me.ToolStripSeparator5 = New System.Windows.Forms.ToolStripSeparator()
+        Me.tbtnEdit = New System.Windows.Forms.ToolStripButton()
+        Me.tbtnDel = New System.Windows.Forms.ToolStripButton()
+        Me.ToolStripSeparator2 = New System.Windows.Forms.ToolStripSeparator()
+        Me.tbtnLoad = New System.Windows.Forms.ToolStripButton()
+        Me.tbtnQuery = New System.Windows.Forms.ToolStripButton()
+        Me.tbtnRefresh = New System.Windows.Forms.ToolStripButton()
+        Me.ToolStripSeparator3 = New System.Windows.Forms.ToolStripSeparator()
+        Me.tbtnFirst = New System.Windows.Forms.ToolStripButton()
+        Me.tbtnPrev = New System.Windows.Forms.ToolStripButton()
+        Me.tbtnNext = New System.Windows.Forms.ToolStripButton()
+        Me.tbtnLast = New System.Windows.Forms.ToolStripButton()
+        Me.ToolStripSeparator4 = New System.Windows.Forms.ToolStripSeparator()
         Me.ToolStrip1.SuspendLayout()
         Me.SuspendLayout()
         '

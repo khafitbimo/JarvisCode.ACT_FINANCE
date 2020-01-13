@@ -634,7 +634,7 @@ Public Class uiTrnJurnal_PV_List_ST
         cJurnaltype_id.ReadOnly = False
 
         cRekanan_id.Name = "rekanan_id"
-        cRekanan_id.HeaderText = "Rekanan"
+        cRekanan_id.HeaderText = "Partner"
         cRekanan_id.DataPropertyName = "rekanan_id"
         cRekanan_id.Width = 150
         cRekanan_id.Visible = False
@@ -648,7 +648,7 @@ Public Class uiTrnJurnal_PV_List_ST
         cPeriode_id.ReadOnly = False
 
         cChannel_id.Name = "channel_id"
-        cChannel_id.HeaderText = "Channel"
+        cChannel_id.HeaderText = "Company"
         cChannel_id.DataPropertyName = "channel_id"
         cChannel_id.Width = 100
         cChannel_id.Visible = True
@@ -821,7 +821,7 @@ Public Class uiTrnJurnal_PV_List_ST
         cJurnal_amountforeign.ReadOnly = True
 
         cRekanan_name.Name = "rekanan_name"
-        cRekanan_name.HeaderText = "Rekanan"
+        cRekanan_name.HeaderText = "Partner"
         cRekanan_name.DataPropertyName = "rekanan_name"
         cRekanan_name.Width = 150
         cRekanan_name.Visible = True
@@ -1610,14 +1610,14 @@ Public Class uiTrnJurnal_PV_List_ST
         cStrukturunit_name.ReadOnly = True
 
         cRekanan_name.Name = "rekanan_name"
-        cRekanan_name.HeaderText = "Rekanan"
+        cRekanan_name.HeaderText = "Partner"
         cRekanan_name.DataPropertyName = "rekanan_name"
         cRekanan_name.Width = 200
         cRekanan_name.Visible = True
         cRekanan_name.ReadOnly = True
 
         cChannel_id.Name = "channel_id"
-        cChannel_id.HeaderText = "Channel"
+        cChannel_id.HeaderText = "Company"
         cChannel_id.DataPropertyName = "channel_id"
         cChannel_id.Width = 100
         cChannel_id.Visible = True
@@ -1683,7 +1683,7 @@ Public Class uiTrnJurnal_PV_List_ST
         cJurnal_descr.ReadOnly = True
 
         cRekanan_name.Name = "rekanan_name"
-        cRekanan_name.HeaderText = "Rekanan"
+        cRekanan_name.HeaderText = "Partner"
         cRekanan_name.DataPropertyName = "rekanan_name"
         cRekanan_name.Width = 200
         cRekanan_name.Visible = True
@@ -1725,7 +1725,7 @@ Public Class uiTrnJurnal_PV_List_ST
         cJurnal_idr.DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleRight
 
         cChannel_id.Name = "channel_id"
-        cChannel_id.HeaderText = "Channel"
+        cChannel_id.HeaderText = "Company"
         cChannel_id.DataPropertyName = "channel_id"
         cChannel_id.Width = 100
         cChannel_id.Visible = True
@@ -6180,7 +6180,7 @@ ulang:
         Me.DataFillForComboDec("strukturunit_id", "strukturunit_name", Me.tbl_MstStrukturunitGrid, "ms_MstStrukturunitCombo_Select", " strukturunit_active = 1 ")
         Me.tbl_MstStrukturunitGrid.DefaultView.Sort = "strukturunit_name"
 
-        Me.label_thread = "Rekanan"
+        Me.label_thread = "Partner"
         worker.ReportProgress(50)
         Me.ComboFillDec(Me.obj_Rekanan_id, "rekanan_id", "rekanan_name", Me.tbl_MstRekanan, "ms_MstRekanan_Select2", " rekanan_active = 1 ", Me._CHANNEL)
         Me.tbl_MstRekananGrid = Me.tbl_MstRekanan.Copy()

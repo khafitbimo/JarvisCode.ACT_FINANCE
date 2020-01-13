@@ -153,7 +153,7 @@ Public Class dlgTrnJurnal_PV_Select_VQ
         cPeriode_id.ReadOnly = False
 
         cChannel_id.Name = "channel_id"
-        cChannel_id.HeaderText = "Channel"
+        cChannel_id.HeaderText = "Company"
         cChannel_id.DataPropertyName = "channel_id"
         cChannel_id.Width = 100
         cChannel_id.Visible = True
@@ -321,7 +321,7 @@ Public Class dlgTrnJurnal_PV_Select_VQ
         cModified_dt.ReadOnly = False
 
         cRekanan_name.Name = "rekanan_name"
-        cRekanan_name.HeaderText = "Rekanan"
+        cRekanan_name.HeaderText = "Partner"
         cRekanan_name.DataPropertyName = "rekanan_name"
         cRekanan_name.Width = 100
         cRekanan_name.Visible = True

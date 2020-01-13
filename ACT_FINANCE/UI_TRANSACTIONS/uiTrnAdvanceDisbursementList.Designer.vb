@@ -217,7 +217,7 @@ Partial Class uiTrnAdvanceDisbursementList
         '
         'colRekanan
         '
-        Me.colRekanan.Caption = "Rekanan"
+        Me.colRekanan.Caption = "Partner"
         Me.colRekanan.FieldName = "rekanan_name"
         Me.colRekanan.Name = "colRekanan"
         Me.colRekanan.OptionsColumn.AllowEdit = False
@@ -580,7 +580,7 @@ Partial Class uiTrnAdvanceDisbursementList
         '
         'colChannel
         '
-        Me.colChannel.Caption = "Channel"
+        Me.colChannel.Caption = "Company"
         Me.colChannel.FieldName = "channel_name"
         Me.colChannel.Name = "colChannel"
         Me.colChannel.Visible = True
@@ -591,7 +591,7 @@ Partial Class uiTrnAdvanceDisbursementList
         '
         Me.CEChannel.Location = New System.Drawing.Point(9, 14)
         Me.CEChannel.Name = "CEChannel"
-        Me.CEChannel.Properties.Caption = "Channel"
+        Me.CEChannel.Properties.Caption = "Company"
         Me.CEChannel.Size = New System.Drawing.Size(75, 19)
         Me.CEChannel.TabIndex = 11
         '

@@ -205,7 +205,7 @@ Public Class dlgTrnCirculationSelectPV
         cPayment.ReadOnly = False
 
         cRekanan_id.Name = "rekanan_id"
-        cRekanan_id.HeaderText = "Rekanan"
+        cRekanan_id.HeaderText = "Partner"
         cRekanan_id.DataPropertyName = "rekanan_id"
         cRekanan_id.Width = 150
         cRekanan_id.DefaultCellStyle.Alignment = DataGridViewContentAlignment.NotSet
@@ -213,7 +213,7 @@ Public Class dlgTrnCirculationSelectPV
         cRekanan_id.ReadOnly = False
 
         cRekanan_name.Name = "rekanan_name"
-        cRekanan_name.HeaderText = "Rekanan"
+        cRekanan_name.HeaderText = "Partner"
         cRekanan_name.DataPropertyName = "rekanan_name"
         cRekanan_name.Width = 150
         cRekanan_name.DefaultCellStyle.Alignment = DataGridViewContentAlignment.NotSet

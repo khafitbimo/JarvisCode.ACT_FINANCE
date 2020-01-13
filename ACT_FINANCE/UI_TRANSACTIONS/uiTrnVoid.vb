@@ -347,7 +347,7 @@ Public Class uiTrnVoid
         cRef.ReadOnly = False
 
         cRekanan.Name = "rekanan"
-        cRekanan.HeaderText = "Rekanan"
+        cRekanan.HeaderText = "Partner"
         cRekanan.DataPropertyName = "rekanan"
         cRekanan.Width = 100
         cRekanan.Visible = True
@@ -403,7 +403,7 @@ Public Class uiTrnVoid
         cJurnaldetil_line.ReadOnly = False
 
         cRekanan_name.Name = "rekanan_name"
-        cRekanan_name.HeaderText = "Rekanan"
+        cRekanan_name.HeaderText = "Partner"
         cRekanan_name.DataPropertyName = "rekanan_name"
         cRekanan_name.Width = 100
         cRekanan_name.Visible = True

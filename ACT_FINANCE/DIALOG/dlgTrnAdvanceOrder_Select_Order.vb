@@ -333,7 +333,7 @@ Public Class dlgTrnAdvanceOrder_Select_Order
     '' ''        cRekanan_id.ReadOnly = True
 
     '' ''        cChannel_id.Name = "channel_id"
-    '' ''        cChannel_id.HeaderText = "Channel"
+    '' ''        cChannel_id.HeaderText = "Company"
     '' ''        cChannel_id.DataPropertyName = "channel_id"
     '' ''        cChannel_id.Width = 75
     '' ''        cChannel_id.Visible = True

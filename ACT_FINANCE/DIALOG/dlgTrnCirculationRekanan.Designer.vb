@@ -137,7 +137,7 @@ Partial Class dlgTrnCirculationRekanan
         'ColRekanan
         '
         Me.ColRekanan.DataPropertyName = "rekanan_name"
-        Me.ColRekanan.HeaderText = "Rekanan"
+        Me.ColRekanan.HeaderText = "Partner"
         Me.ColRekanan.Name = "ColRekanan"
         Me.ColRekanan.ReadOnly = True
         Me.ColRekanan.Width = 120
